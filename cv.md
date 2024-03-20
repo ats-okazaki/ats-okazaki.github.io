@@ -1,7 +1,7 @@
 # Education:
-- Mar., 2016: PhD in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo
-- Mar., 2012: MSc in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo
-- Mar., 2009: BSc in Engineering, Department of Civil Engineering and Architecture, School of Engineering, Tohoku University
+- **Mar., 2016:** PhD in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo
+- **Mar., 2012:** MSc in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo
+- **Mar., 2009:** BSc in Engineering, Department of Civil Engineering and Architecture, School of Engineering, Tohoku University
 
 # Appointments:
 - Oct., 2023-: Associate Professor (Adjunct), Center for Environmental Remote Sensing, Chiba University
@@ -26,10 +26,10 @@
 1. McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. in prep.
    
 ### Published/In print
-Cauquoin, A., Fourre, E., Landais, A., Okazaki, A., Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. Accepted
-Bong,H., Cauquoin, A., Okazaki, A., Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. JGR-A
-Li. Y., Cauquoin, A., Okazaki. A., and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE
-Shoji, S., Okazaki, A., Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. ESS
+1. Cauquoin, A., Fourre, E., Landais, A., Okazaki, A., Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. Accepted
+1. Bong,H., Cauquoin, A., Okazaki, A., Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. JGR-A
+1. Li. Y., Cauquoin, A., Okazaki. A., and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE
+1. Shoji, S., Okazaki, A., Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. ESS
 Zhang, Y., Sieron, S. B., Lu, Y., Chen, X., Nystrom, R. G., Minamide, M., Chan, M.-Y., Hartman, C. M., Yao, Z., Ruppert J. H., Okazaki, A., Greybush, S. J., Clothiaux, E. E., Zhang, F., Ensemble-Based Assimilation of Satellite All-Sky Microwave Radiances Improves Intensity and Rainfall Predictions for Hurricane Harvey (2017). Geophysical Research Letters, 48, e2021GL096410, 2021. GRL
 Kino, K., Okazaki, A., Cauquoin, A., Yoshimura, K., Contribution of the Southern Annular Mode on variations in water isotopes of daily precipitation at Dome Fuji, East Antarctica, JGR-Atmos, 126, e2021JD035397, 2021. JGR-A
 Okazaki, A., Miyoshi, T., Yoshimura, K., Greybush, S. J., and Zhang, F., Revisiting online and offline data assimilation comparison for paleoclimate reconstruction: an idealized OSSE study, 126, e2020JD034214, JGR-Atmos, 2021. JGR-A

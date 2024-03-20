@@ -3,6 +3,5 @@ theme: jekyll-theme-slate
 title: ATSUSHI OKAZAKI
 description: Associate Professor, Chiba University
 
-layout: age
-title: CV
-permaling: /cv
+layout: page
+permalink: /cv

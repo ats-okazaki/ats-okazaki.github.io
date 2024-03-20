@@ -18,13 +18,14 @@
 # Achievements:
 ## Publications with reviews
 ### Submitted/In revision
-Kino, K., Cauquoin, A., Okazaki. A., Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. in revision, GRL
-Morita, M., Kajita, H., Okazaki, A., Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, submitted to Geochemical Journal
-Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. submitted to ACP
-Otsuka, T., Okazaki, A., Masaki, O., Kotsuki, S., in prep.
-Okazaki, A., On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, in prep.
-McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. in prep.
-Published/In print
+1. Kino, K., Cauquoin, A., Okazaki. A., Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. in revision, GRL  
+1. Morita, M., Kajita, H., Okazaki, A., Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, submitted to Geochemical Journal  
+1. Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. submitted to ACP  
+1. Otsuka, T., Okazaki, A., Masaki, O., Kotsuki, S., in prep.  
+1. Okazaki, A., On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, in prep.  
+1. McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. in prep.
+   
+### Published/In print
 Cauquoin, A., Fourre, E., Landais, A., Okazaki, A., Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. Accepted
 Bong,H., Cauquoin, A., Okazaki, A., Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. JGR-A
 Li. Y., Cauquoin, A., Okazaki. A., and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE

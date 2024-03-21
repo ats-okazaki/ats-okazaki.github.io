@@ -18,36 +18,38 @@
 # Achievements:
 ## Publications with reviews
 ### Submitted/In revision
-1. Kino, K., Cauquoin, A., Okazaki. A., Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. in revision, GRL  
-1. Morita, M., Kajita, H., Okazaki, A., Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, submitted to Geochemical Journal  
-1. Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. submitted to ACP  
-1. Otsuka, T., Okazaki, A., Masaki, O., Kotsuki, S., in prep.  
-1. Okazaki, A., On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, in prep.  
-1. McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. in prep.
+1. Kino, K., Cauquoin, A., Okazaki. A., Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. *in revision, GRL*  
+1. Morita, M., Kajita, H., Okazaki, A., Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
+1. Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP*  
+1. Otsuka, T., Okazaki, A., Masaki, O., Kotsuki, S., *in prep.*  
+1. Okazaki, A., On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.* 
+1. McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
+2. Cheng, J., Cauquoin, A., Yang, Y., Okazaki, A., Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau, *in prep.*
    
 ### Published/In print
-1. Cauquoin, A., Fourre, E., Landais, A., Okazaki, A., Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. Accepted
-1. Bong,H., Cauquoin, A., Okazaki, A., Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. JGR-A
+1. Cauquoin, A., Fourre, E., Landais, A., **Okazaki, A.**, Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. *Accepted*
+1. Bong,H., Cauquoin, A., **Okazaki, A.**, Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038719)
 1. Li. Y., Cauquoin, A., Okazaki. A., and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE
 1. Shoji, S., Okazaki, A., Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. ESS
-Zhang, Y., Sieron, S. B., Lu, Y., Chen, X., Nystrom, R. G., Minamide, M., Chan, M.-Y., Hartman, C. M., Yao, Z., Ruppert J. H., Okazaki, A., Greybush, S. J., Clothiaux, E. E., Zhang, F., Ensemble-Based Assimilation of Satellite All-Sky Microwave Radiances Improves Intensity and Rainfall Predictions for Hurricane Harvey (2017). Geophysical Research Letters, 48, e2021GL096410, 2021. GRL
-Kino, K., Okazaki, A., Cauquoin, A., Yoshimura, K., Contribution of the Southern Annular Mode on variations in water isotopes of daily precipitation at Dome Fuji, East Antarctica, JGR-Atmos, 126, e2021JD035397, 2021. JGR-A
-Okazaki, A., Miyoshi, T., Yoshimura, K., Greybush, S. J., and Zhang, F., Revisiting online and offline data assimilation comparison for paleoclimate reconstruction: an idealized OSSE study, 126, e2020JD034214, JGR-Atmos, 2021. JGR-A
-Taylor, J., Okazaki, A., Honda, T., Kotsuji, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T. and Miyoshi, T., Oversampling Reflectivity Observations from a Geostationary Precipitation Radar Satellite: Impact on Typhoon Forecasts within an OSSE Framework, JAMES, 2021. JAMES
-Shoji, S., Okazaki, A., Yoshimura, K., Comparative study towards millennium reanalysis by data assimilation using isotope ratios of proxies, JJSCE, 65, I_121-126, 2020. JJSCE
-Kotsuki, S., Pensoneault, A., Okazaki, A., Miyoshi, T. Weight structure of the Local Ensemble Transform Kalman Filter: A case with an intermediate atmospheric general circulation model. Q. J. R. Meteorol. Soc., 146, 3399–3415, 2020. QJRMS
-Okazaki, A., Honda, T., Kotsuki, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T., and Miyoshi, T., Simulating precipitation radar observations from a geostationary satellite, Atmos. Meas. Tech., 12, 3985-3996, 2019. AMT
-Okazaki, A., and Yoshimura, K., Global evaluation of proxy models for stable water isotopes with realistic atmospheric forcing, JGR-Atmos, 124, 8972– 8993, 2019. JGR-A
-Shoji, S., Okazaki, A., and Yoshimura, K., Study on spatiotemporal characteristic of observation impact in proxy data assimilation, JJSCE, 74 (5), I_49-I_54, 2018. JJSCE
-Hydro 2k Consortium, Comparing proxy and model estimates of hydroclimate variability and change over the Common Era, Clim. Past., 13, 1851-1900, 2017. CP
-Okazaki, A., and K. Yoshimura, Development and evaluation of a system of proxy data assimilation for paleoclimate reconstruction, Clim. Past, 13, 379-393, 2017. CP
-Wei, Z., K. Yoshimura, A. Okazaki, K. Ono, W. Kim, M. Yokoi, C.-T. Lai, Understanding the variability of water isotopologues in near-surface atmospheric moisture over a humid subtropical rice paddy in Tsukuba, Japan, J. Hydrology, 533, 91-102, 2016. J. Hydrology
-Wei, Z., K. Yoshimura, A. Okazaki, W. Kim, Z. Liu, M. Yokoi, Partitioning of evapotranspiration using high frequency water vapor isotopic measurement over a paddy field, Water Resour. Res., 51(5), 3716-3729, 2015. WRR
-Okazaki, A., Y. Satoh, G. Tremoy, F. Vimeux, R. Scheepmaker, and K. Yoshimura, Interannual variation of vapor isotope in West Africa and its relation to ENSO, Atmos. Chem. Phys., 15, 3193-3204, 2015. ACP
-Wei, Z., A. Okazaki, H. Maeda, Y. Satoh, M. Kiguchi, K. Noda, M. Koike, W. Kim, Z. Liu, and K. Yoshimura, Investigating vegetation-atmosphere water exchange by using high frequency spectroscopy vapor isotope observations, Journal of Japan Society of Civil Engineers, Ser. B1, 70, 181-186, 2014. JJSCE
-Okazaki, A., P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, J. Meteor Soc. Japan, 90(4), 509-524, 2012. JMSJ
-Ozawa, T., Fujibayashi, M., Okazaki, A., Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
-Presentation (selected only)
+1. Zhang, Y., Sieron, S. B., Lu, Y., Chen, X., Nystrom, R. G., Minamide, M., Chan, M.-Y., Hartman, C. M., Yao, Z., Ruppert J. H., Okazaki, A., Greybush, S. J., Clothiaux, E. E., Zhang, F., Ensemble-Based Assimilation of Satellite All-Sky Microwave Radiances Improves Intensity and Rainfall Predictions for Hurricane Harvey (2017). Geophysical Research Letters, 48, e2021GL096410, 2021. GRL
+1. Kino, K., Okazaki, A., Cauquoin, A., Yoshimura, K., Contribution of the Southern Annular Mode on variations in water isotopes of daily precipitation at Dome Fuji, East Antarctica, JGR-Atmos, 126, e2021JD035397, 2021. JGR-A
+1. Okazaki, A., Miyoshi, T., Yoshimura, K., Greybush, S. J., and Zhang, F., Revisiting online and offline data assimilation comparison for paleoclimate reconstruction: an idealized OSSE study, 126, e2020JD034214, JGR-Atmos, 2021. JGR-A
+1. Taylor, J., Okazaki, A., Honda, T., Kotsuji, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T. and Miyoshi, T., Oversampling Reflectivity Observations from a Geostationary Precipitation Radar Satellite: Impact on Typhoon Forecasts within an OSSE Framework, JAMES, 2021. JAMES
+1. Shoji, S., Okazaki, A., Yoshimura, K., Comparative study towards millennium reanalysis by data assimilation using isotope ratios of proxies, JJSCE, 65, I_121-126, 2020. JJSCE
+1. Kotsuki, S., Pensoneault, A., Okazaki, A., Miyoshi, T. Weight structure of the Local Ensemble Transform Kalman Filter: A case with an intermediate atmospheric general circulation model. Q. J. R. Meteorol. Soc., 146, 3399–3415, 2020. QJRMS
+1. Okazaki, A., Honda, T., Kotsuki, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T., and Miyoshi, T., Simulating precipitation radar observations from a geostationary satellite, Atmos. Meas. Tech., 12, 3985-3996, 2019. AMT
+1. Okazaki, A., and Yoshimura, K., Global evaluation of proxy models for stable water isotopes with realistic atmospheric forcing, JGR-Atmos, 124, 8972– 8993, 2019. JGR-A
+1. Shoji, S., Okazaki, A., and Yoshimura, K., Study on spatiotemporal characteristic of observation impact in proxy data assimilation, JJSCE, 74 (5), I_49-I_54, 2018. JJSCE
+1. Hydro 2k Consortium, Comparing proxy and model estimates of hydroclimate variability and change over the Common Era, Clim. Past., 13, 1851-1900, 2017. CP
+1. Okazaki, A., and K. Yoshimura, Development and evaluation of a system of proxy data assimilation for paleoclimate reconstruction, Clim. Past, 13, 379-393, 2017. CP
+1. Wei, Z., K. Yoshimura, A. Okazaki, K. Ono, W. Kim, M. Yokoi, C.-T. Lai, Understanding the variability of water isotopologues in near-surface atmospheric moisture over a humid subtropical rice paddy in Tsukuba, Japan, J. Hydrology, 533, 91-102, 2016. J. Hydrology
+1. Wei, Z., K. Yoshimura, A. Okazaki, W. Kim, Z. Liu, M. Yokoi, Partitioning of evapotranspiration using high frequency water vapor isotopic measurement over a paddy field, Water Resour. Res., 51(5), 3716-3729, 2015. WRR
+1. Okazaki, A., Y. Satoh, G. Tremoy, F. Vimeux, R. Scheepmaker, and K. Yoshimura, Interannual variation of vapor isotope in West Africa and its relation to ENSO, Atmos. Chem. Phys., 15, 3193-3204, 2015. ACP
+1. Wei, Z., A. Okazaki, H. Maeda, Y. Satoh, M. Kiguchi, K. Noda, M. Koike, W. Kim, Z. Liu, and K. Yoshimura, Investigating vegetation-atmosphere water exchange by using high frequency spectroscopy vapor isotope observations, Journal of Japan Society of Civil Engineers, Ser. B1, 70, 181-186, 2014. JJSCE
+1. Okazaki, A., P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, J. Meteor Soc. Japan, 90(4), 509-524, 2012. JMSJ
+1. Ozawa, T., Fujibayashi, M., Okazaki, A., Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
+
+## Presentation (selected only)
 Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. (Invited)
 Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. (Invited)

@@ -50,18 +50,18 @@
 1. Ozawa, T., Fujibayashi, M., Okazaki, A., Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Presentation (selected only)
-Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. (Invited)
-Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
-岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. (Invited)
-Okazaki, A. and Yoshimura, K., Evaluation of proxy system models for stable water isotopes and introduction of their application to paleoclimate studies, JpGU2021, 4 Jun. 2021. (Invited)
-Okazaki, A., Honda, T., Kotsuki, S., Miyoshi, T., Precipitation radar data assimilation with an ensemble Kalman filter: an observing system simulation experiment for a typhoon case, ADAPT seminar, PSU, PA, US, Mar 29 2019. (invited)
-2018 May, Okazaki, A., Miyoshi, T., Yoshimura, K., Zhang, F., Toward online data assimilation for the millennium reanalysis, A-CC29, JpGU 2018, Makuhari, Chiba, Japan, May 20-24 2018. (invited)
-2017 May, Atsushi Okazaki, Development and evaluation of isotopic proxy data assimilation system, First workshop of the PAGES working group on Paleoclimate Reanalyses, Data Assimilation and Proxy System modelling (DAPS), Louvain-la-Neuve, Belgium, 29 May-1 Jun 2017. (invited)
-2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. (invited)
-2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. (invited)
-Full list is available at HERE
+1. Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. (Invited)
+1. Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
+1. 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. (Invited)
+1. Okazaki, A. and Yoshimura, K., Evaluation of proxy system models for stable water isotopes and introduction of their application to paleoclimate studies, JpGU2021, 4 Jun. 2021. (Invited)
+1. Okazaki, A., Honda, T., Kotsuki, S., Miyoshi, T., Precipitation radar data assimilation with an ensemble Kalman filter: an observing system simulation experiment for a typhoon case, ADAPT seminar, PSU, PA, US, Mar 29 2019. (invited)
+1. 2018 May, Okazaki, A., Miyoshi, T., Yoshimura, K., Zhang, F., Toward online data assimilation for the millennium reanalysis, A-CC29, JpGU 2018, Makuhari, Chiba, Japan, May 20-24 2018. (invited)
+1. 2017 May, Atsushi Okazaki, Development and evaluation of isotopic proxy data assimilation system, First workshop of the PAGES working group on Paleoclimate Reanalyses, Data Assimilation and Proxy System modelling (DAPS), Louvain-la-Neuve, Belgium, 29 May-1 Jun 2017. (invited)
+1. 2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. (invited)
+1. 2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. (invited)
+Full list is available at [HERE](https://ats-okazaki.github.io/cv/presentations.md)
 
-Grants:
+# Grants:
 2023, JAXA contract resesarch (PI), 500,000JPY.
 2023-2024, MLIT Kasensabo-Gijutsu (PI), 4,000,000JPY.
 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) (PI: Kei Yoshimura@Univ. Tokyo), Generation of Millennium Atmospheric Reanalysis Product, 22H04938, 37,700,000JPY.
@@ -75,15 +75,18 @@ Grants:
 2018-2020, Grant-in-Aid for RIKEN Special Postdoctoral Researcher (PI), 3,000,000 JPY
 2017-2021, JSPS Grant-in-Aid for Young Scientists (B) (PI), Development of a data assimilation method toward high-accuracy paleoclimate reconstruction, 17K14397, 3,120,000 JPY.
 2013-2014, Grant-in-Aid for JSPS Fellows (PI), 13J09182, 2,000,000 JPY.
-Computer Resources
-2023: Fugaku, Fugaku Trial for General Access, Application of SCALE-LETKF for studies on weather control, 61,200 NH.
-2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, Study on paleoclimate reconstruction with data assimilation, 16,000 NH.
-Awards & Honors:
-Oct 2022, Hirosaki University Outstanding Young Thesis Award
-Apr 2018, Selected for RIKEN Special Postdoctoral Researcher (SPDR)
-Apr 2013, Selected for JSPS Research Fellow (DC2)
-External Services:
-Paper reviewer
+
+# Computer Resources
+- 2023: Fugaku, Fugaku Trial for General Access, Application of SCALE-LETKF for studies on weather control, 61,200 NH.
+- 2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, Study on paleoclimate reconstruction with data assimilation, 16,000 NH.
+
+# Awards & Honors:
+- Oct 2022, Hirosaki University Outstanding Young Thesis Award
+- Apr 2018, Selected for RIKEN Special Postdoctoral Researcher (SPDR)
+- Apr 2013, Selected for JSPS Research Fellow (DC2)
+
+# External Services:
+## Paper reviewer
 Atmosphere (2)
 Atmospheric Chemistry and Physics (1)
 Climate Dynamics (2)
@@ -102,6 +105,7 @@ Nature Communications (1)
 Nonlinear Processes in Geophysics (1)
 Quarterly Journal of the Royal Meteorological Society (1)
 Tellus-A (1)
-Editorial board
+
+## Editorial board
 Oct. 2020 - : Atmosphere, Journal Topic Board
 Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources

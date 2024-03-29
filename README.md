@@ -4,6 +4,9 @@ His research interests are in stable water isotopes modeling and data assimilati
 Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- 2024 Goldschmidt Conference
+  - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, 2024 Goldschmidt Conference, 18-23 Aug 2024, Chicago, IL.
+  - Gusyev, M., Cauquoin, A., Yoshimura, K., Bong, H., Okazaki, A., Komuro, Y., Ono, J., Quantifying impacts of anthropogenic tritium releases at the Fukushima Daiichi Nuclear Power Plant in tritiated water cycle with numerical modeling, 2024 Goldschmidt Conference, 18-23 Aug 2024, Chicago, IL.
 - Kurosawa, K. et al. Adjoint Workshop.
 - JpGU 2024
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU

@@ -37,24 +37,24 @@ rank: 1
 1. Kino, K., Cauquoin, A., **Okazaki. A.**, Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum, Geophys. Res. Let., 2024. [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108191)
 1. Cauquoin, A., Fourre, E., Landais, A., **Okazaki, A.**, Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039745)
 1. Bong,H., Cauquoin, A., **Okazaki, A.**, Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038719)
-1. Li. Y., Cauquoin, A., **Okazaki. A.**, and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE
-1. Shoji, S., **Okazaki, A.**, Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. ESS
-1. Zhang, Y., Sieron, S. B., Lu, Y., Chen, X., Nystrom, R. G., Minamide, M., Chan, M.-Y., Hartman, C. M., Yao, Z., Ruppert J. H., **Okazaki, A.**, Greybush, S. J., Clothiaux, E. E., Zhang, F., Ensemble-Based Assimilation of Satellite All-Sky Microwave Radiances Improves Intensity and Rainfall Predictions for Hurricane Harvey (2017). Geophysical Research Letters, 48, e2021GL096410, 2021. GRL
-1. Kino, K., **Okazaki, A.**, Cauquoin, A., Yoshimura, K., Contribution of the Southern Annular Mode on variations in water isotopes of daily precipitation at Dome Fuji, East Antarctica, JGR-Atmos, 126, e2021JD035397, 2021. JGR-A
-1. **Okazaki, A.**, Miyoshi, T., Yoshimura, K., Greybush, S. J., and Zhang, F., Revisiting online and offline data assimilation comparison for paleoclimate reconstruction: an idealized OSSE study, 126, e2020JD034214, JGR-Atmos, 2021. JGR-A
-1. Taylor, J., **Okazaki, A.**, Honda, T., Kotsuji, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T. and Miyoshi, T., Oversampling Reflectivity Observations from a Geostationary Precipitation Radar Satellite: Impact on Typhoon Forecasts within an OSSE Framework, JAMES, 2021. JAMES
-1. Shoji, S., **Okazaki, A.**, Yoshimura, K., Comparative study towards millennium reanalysis by data assimilation using isotope ratios of proxies, JJSCE, 65, I_121-126, 2020. JJSCE
-1. Kotsuki, S., Pensoneault, A., **Okazaki, A.**, Miyoshi, T. Weight structure of the Local Ensemble Transform Kalman Filter: A case with an intermediate atmospheric general circulation model. Q. J. R. Meteorol. Soc., 146, 3399–3415, 2020. QJRMS
-1. **Okazaki, A.**, Honda, T., Kotsuki, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T., and Miyoshi, T., Simulating precipitation radar observations from a geostationary satellite, Atmos. Meas. Tech., 12, 3985-3996, 2019. AMT
-1. **Okazaki, A.**, and Yoshimura, K., Global evaluation of proxy models for stable water isotopes with realistic atmospheric forcing, JGR-Atmos, 124, 8972– 8993, 2019. JGR-A
-1. Shoji, S., **Okazaki, A.**, and Yoshimura, K., Study on spatiotemporal characteristic of observation impact in proxy data assimilation, JJSCE, 74 (5), I_49-I_54, 2018. JJSCE
-1. Hydro 2k Consortium, Comparing proxy and model estimates of hydroclimate variability and change over the Common Era, Clim. Past., 13, 1851-1900, 2017. CP
-1. **Okazaki, A.**, and K. Yoshimura, Development and evaluation of a system of proxy data assimilation for paleoclimate reconstruction, Clim. Past, 13, 379-393, 2017. CP
-1. Wei, Z., K. Yoshimura, **A. Okazaki**, K. Ono, W. Kim, M. Yokoi, C.-T. Lai, Understanding the variability of water isotopologues in near-surface atmospheric moisture over a humid subtropical rice paddy in Tsukuba, Japan, J. Hydrology, 533, 91-102, 2016. J. Hydrology
-1. Wei, Z., K. Yoshimura, **A. Okazaki**, W. Kim, Z. Liu, M. Yokoi, Partitioning of evapotranspiration using high frequency water vapor isotopic measurement over a paddy field, Water Resour. Res., 51(5), 3716-3729, 2015. WRR
-1. **Okazaki, A.**, Y. Satoh, G. Tremoy, F. Vimeux, R. Scheepmaker, and K. Yoshimura, Interannual variation of vapor isotope in West Africa and its relation to ENSO, Atmos. Chem. Phys., 15, 3193-3204, 2015. ACP
-1. Wei, Z., **A. Okazaki**, H. Maeda, Y. Satoh, M. Kiguchi, K. Noda, M. Koike, W. Kim, Z. Liu, and K. Yoshimura, Investigating vegetation-atmosphere water exchange by using high frequency spectroscopy vapor isotope observations, Journal of Japan Society of Civil Engineers, Ser. B1, 70, 181-186, 2014. JJSCE
-1. **Okazaki, A.**, P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, J. Meteor Soc. Japan, 90(4), 509-524, 2012. JMSJ
+1. Li. Y., Cauquoin, A., **Okazaki. A.**, and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. [JJSCE](https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16035/_article/-char/ja/)
+1. Shoji, S., **Okazaki, A.**, Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. [ESS](https://doi.org/10.1029/2020EA001618)
+1. Zhang, Y., Sieron, S. B., Lu, Y., Chen, X., Nystrom, R. G., Minamide, M., Chan, M.-Y., Hartman, C. M., Yao, Z., Ruppert J. H., **Okazaki, A.**, Greybush, S. J., Clothiaux, E. E., Zhang, F., Ensemble-Based Assimilation of Satellite All-Sky Microwave Radiances Improves Intensity and Rainfall Predictions for Hurricane Harvey (2017). Geophysical Research Letters, 48, e2021GL096410, 2021. [GRL](https://doi.org/10.1029/2021GL096410)
+1. Kino, K., **Okazaki, A.**, Cauquoin, A., Yoshimura, K., Contribution of the Southern Annular Mode on variations in water isotopes of daily precipitation at Dome Fuji, East Antarctica, JGR-Atmos, 126, e2021JD035397, 2021. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035397)
+1. **Okazaki, A.**, Miyoshi, T., Yoshimura, K., Greybush, S. J., and Zhang, F., Revisiting online and offline data assimilation comparison for paleoclimate reconstruction: an idealized OSSE study, 126, e2020JD034214, JGR-Atmos, 2021. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034214)
+1. Taylor, J., **Okazaki, A.**, Honda, T., Kotsuji, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T. and Miyoshi, T., Oversampling Reflectivity Observations from a Geostationary Precipitation Radar Satellite: Impact on Typhoon Forecasts within an OSSE Framework, JAMES, 2021. [JAMES](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020MS002332)
+1. Shoji, S., **Okazaki, A.**, Yoshimura, K., Comparative study towards millennium reanalysis by data assimilation using isotope ratios of proxies, JJSCE, 65, I_121-126, 2020. [JJSCE](https://www.jstage.jst.go.jp/article/jscejhe/76/2/76_I_121/_article/-char/en)
+1. Kotsuki, S., Pensoneault, A., **Okazaki, A.**, Miyoshi, T. Weight structure of the Local Ensemble Transform Kalman Filter: A case with an intermediate atmospheric general circulation model. Q. J. R. Meteorol. Soc., 146, 3399–3415, 2020. [QJRMS](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3852)
+1. **Okazaki, A.**, Honda, T., Kotsuki, S., Yamaji, M., Kubota, T., Oki, R., Iguchi, T., and Miyoshi, T., Simulating precipitation radar observations from a geostationary satellite, Atmos. Meas. Tech., 12, 3985-3996, 2019. [AMT](https://www.atmos-meas-tech.net/12/3985/2019/)
+1. **Okazaki, A.**, and Yoshimura, K., Global evaluation of proxy models for stable water isotopes with realistic atmospheric forcing, JGR-Atmos, 124, 8972– 8993, 2019. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD029463)
+1. Shoji, S., **Okazaki, A.**, and Yoshimura, K., Study on spatiotemporal characteristic of observation impact in proxy data assimilation, JJSCE, 74 (5), I_49-I_54, 2018. [JJSCE](https://www.jstage.jst.go.jp/article/jscejhe/74/5/74_I_49/_article/-char/en)
+1. Hydro 2k Consortium, Comparing proxy and model estimates of hydroclimate variability and change over the Common Era, Clim. Past., 13, 1851-1900, 2017. [CP](https://www.clim-past.net/13/1851/2017/cp-13-1851-2017.html)
+1. **Okazaki, A.**, and K. Yoshimura, Development and evaluation of a system of proxy data assimilation for paleoclimate reconstruction, Clim. Past, 13, 379-393, 2017. [CP](http://www.clim-past.net/13/379/2017/)
+1. Wei, Z., K. Yoshimura, **A. Okazaki**, K. Ono, W. Kim, M. Yokoi, C.-T. Lai, Understanding the variability of water isotopologues in near-surface atmospheric moisture over a humid subtropical rice paddy in Tsukuba, Japan, J. Hydrology, 533, 91-102, 2016. [J. Hydrology](http://www.sciencedirect.com/science/article/pii/S0022169415009312)
+1. Wei, Z., K. Yoshimura, **A. Okazaki**, W. Kim, Z. Liu, M. Yokoi, Partitioning of evapotranspiration using high frequency water vapor isotopic measurement over a paddy field, Water Resour. Res., 51(5), 3716-3729, 2015. [WRR](http://onlinelibrary.wiley.com/doi/10.1002/2014WR016737/abstract)
+1. **Okazaki, A.**, Y. Satoh, G. Tremoy, F. Vimeux, R. Scheepmaker, and K. Yoshimura, Interannual variation of vapor isotope in West Africa and its relation to ENSO, Atmos. Chem. Phys., 15, 3193-3204, 2015. [ACP](http://www.atmos-chem-phys.net/15/3193/2015/acp-15-3193-2015.html)
+1. Wei, Z., **A. Okazaki**, H. Maeda, Y. Satoh, M. Kiguchi, K. Noda, M. Koike, W. Kim, Z. Liu, and K. Yoshimura, Investigating vegetation-atmosphere water exchange by using high frequency spectroscopy vapor isotope observations, Journal of Japan Society of Civil Engineers, Ser. B1, 70, 181-186, 2014. [JJSCE](https://www.jstage.jst.go.jp/article/jscejhe/70/4/70_31/_article)
+1. **Okazaki, A.**, P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, J. Meteor Soc. Japan, 90(4), 509-524, 2012. [JMSJ](https://www.jstage.jst.go.jp/article/jmsj/90/4/90_2012-405/_article)
 1. Ozawa, T., Fujibayashi, M., **Okazaki, A.**, Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Presentation (selected only)
@@ -71,23 +71,26 @@ rank: 1
 Full list is available at [HERE](https://ats-okazaki.github.io/cv/presentation.md)  
 
 # Grants:
-2023, JAXA contract resesarch (PI), 500,000JPY.
-2023-2024, MLIT Kasensabo-Gijutsu (PI), 4,000,000JPY.
-2022-2026, JSPS Grant-in-Aid for Scientific Research (S) (PI: Kei Yoshimura@Univ. Tokyo), Generation of Millennium Atmospheric Reanalysis Product, 22H04938, 37,700,000JPY.
-2022-2024, JST Moonshot Goal8, Quantifying Weather Controllability and Mitigatable Flood Damage Based on Ensemble Weather Forecast, 23,400,000JPY.
-2022-2024, JSPS Grant-in-Aid for Early-Career Scientists (PI), Development of Stable Water Isotopes Dataset for Atmospheric Science by Fusing Model Simulations and Observations, 22K14095, 4,680,000JPY.
-2022-2024, JAXA 3rd Research Announcement on the Earth Observations: EO-RA3 (PI: Takemasa Miyoshi@RIKEN R-CCS), Advances and applications of satellite data assimilation of clouds, precipitation, and the ocean.
-2022-2023, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), High-resolution Climate Reconstruction Toward Expansion of Historical Socio-Hydrology in Japan, 22H05228, 3,770,000JPY.
-2021-2024, JSPS Grant-in-Aid for Scientific Research (A) (PI: Shunji Kotsuki@Chiba Univ.), Exploring Real-time Rainfall and Flood Predictions in Fugaku Era with the State-of-the-art Data Science, 21H04571, 4,420,000 JPY.
-2021, Start-Up Grant for Young Scientists, Hirosaki University (PI), 930,000 JPY.
-2021, Interdisciplinary Collaborative Research Grant for Young Scientists, Hirosaki University (PI: Tomoya Takano@Hirosaki Univ.), 750,000 JPY.
-2018-2020, Grant-in-Aid for RIKEN Special Postdoctoral Researcher (PI), 3,000,000 JPY
-2017-2021, JSPS Grant-in-Aid for Young Scientists (B) (PI), Development of a data assimilation method toward high-accuracy paleoclimate reconstruction, 17K14397, 3,120,000 JPY.
-2013-2014, Grant-in-Aid for JSPS Fellows (PI), 13J09182, 2,000,000 JPY.
+- 2024-2025, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), *Ultra-high spatiotemporal resolution climate reconstruction: Toward development of historical meteorology*, [24H00920](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PUBLICLY-24H00920/), PI, 7,200,000JPY.
+- 2023-2026, JST Moonshot Goal 8, *Artificial generation of upstream maritime heavy rains to govern intense-rain-induced disasters over land*, [JPMJMS2389-4-1](https://www.jst.go.jp/moonshot/en/program/goal8/89_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 91,500,000JPY.
+- 2023-2024, MLIT Kasensabo-Gijutsu, *Basin-scale impact-based risk assessment of the climate change*, PI, 4,000,000JPY.
+- 2023, JAXA contract resesarch (PI), 500,000JPY.
+- 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) , *Generation of Millennium Atmospheric Reanalysis Product*, [22H04938](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04938/), Co-PI, 37,700,000JPY.
+- 2022-2024, JST Moonshot Goal 8, *Quantifying Weather Controllability and Mitigatable Flood Damage Based on Ensemble Weather Forecast*, [JPMJMS2284](https://www.jst.go.jp/moonshot/en/program/goal8/84_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 23,400,000JPY. 
+- 2022-2024, JSPS Grant-in-Aid for Early-Career Scientists, *Development of Stable Water Isotopes Dataset for Atmospheric Science by Fusing Model Simulations and Observations*, [22K14095](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14095/), PI, 4,680,000JPY.
+- 2022-2024, JAXA 3rd Research Announcement on the Earth Observations: EO-RA3, *Advances and applications of satellite data assimilation of clouds, precipitation, and the ocean*, CI (PI: Takemasa Miyoshi@RIKEN R-CCS).
+- 2022-2023, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), *High-resolution Climate Reconstruction Toward Expansion of Historical Socio-Hydrology in Japan*, [22H05228](https://kaken.nii.ac.jp/grant/KAKENHI-PUBLICLY-22H05228/), PI, 3,770,000JPY.
+- 2021-2024, JSPS Grant-in-Aid for Scientific Research (A), *Exploring Real-time Rainfall and Flood Predictions in Fugaku Era with the State-of-the-art Data Science*, [21H04571](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04571/), Co-PI (PI: Shunji Kotsuki@Chiba Univ.), 4,420,000 JPY.
+- 2021, Start-Up Grant for Young Scientists, Hirosaki University, PI, 930,000 JPY.
+- 2021, Interdisciplinary Collaborative Research Grant for Young Scientists, Hirosaki University, Co-PI PI: Tomoya Takano@Hirosaki Univ.), 750,000 JPY.
+- 2018-2020, Grant-in-Aid for RIKEN Special Postdoctoral Researcher, PI, 3,000,000 JPY
+- 2017-2021, JSPS Grant-in-Aid for Young Scientists (B), *Development of a data assimilation method toward high-accuracy paleoclimate reconstruction*, [17K14397](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K14397/), PI, 3,120,000 JPY.
+- 2013-2014, Grant-in-Aid for JSPS Fellows, [13J09182](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-13J09182/), PI, 2,000,000 JPY.
 
 # Computer Resources
-- 2023: Fugaku, Fugaku Trial for General Access, Application of SCALE-LETKF for studies on weather control, 61,200 NH.
-- 2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, Study on paleoclimate reconstruction with data assimilation, 16,000 NH.
+- 2024: Fugaku, General Access, *Development and Demonstration of Model Predictive Control Method for Weather Control*, hp240169, 2,518,125 NH. 
+- 2023: Fugaku, Fugaku Trial for General Access, *Application of SCALE-LETKF for studies on weather control*, hp230317 and hp230476, 61,200 NH.
+- 2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, *Study on paleoclimate reconstruction with data assimilation*, 16,000 NH.
 
 # Awards & Honors:
 - Oct 2022, Hirosaki University Outstanding Young Thesis Award

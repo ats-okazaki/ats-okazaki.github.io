@@ -26,14 +26,16 @@ rank: 1
 ### Submitted/In revision
 1. Kino, K., Cauquoin, A., Okazaki. A., Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. *in revision, GRL*  
 1. Morita, M., Kajita, H., Okazaki, A., Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
-1. Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP*  
-1. Otsuka, T., Okazaki, A., Masaki, O., Kotsuki, S., *in prep.*  
+1. Ishidoya, S., Sugawara, S., Okazaki. A., First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP*
+2. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau. *submitted to JC*
+1. Otsuka, T., **Okazaki, A.**, Masaki, O., Kotsuki, S., A feasibility study of quantitative weather control by convex optimization of initial condition perturbation. *in prep.*
 1. Okazaki, A., On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.* 
 1. McKinney, M. and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
-2. Cheng, J., Cauquoin, A., Yang, Y., Okazaki, A., Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau, *in prep.*
+2. Cauquoin, A., Maksym, G., Hayoung, B., **Okazaki, A.**, and Yoshimura, K., Modeling of tritium release into the atmosphere during the Fukushima accident. *in prep.*
    
 ### Published/In print
-1. Cauquoin, A., Fourre, E., Landais, A., **Okazaki, A.**, Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. *Accepted*
+1. Kino, K., Cauquoin, A., **Okazaki. A.**, Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum, Geophys. Res. Let., 2024. [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108191)
+1. Cauquoin, A., Fourre, E., Landais, A., **Okazaki, A.**, Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039745)
 1. Bong,H., Cauquoin, A., **Okazaki, A.**, Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038719)
 1. Li. Y., Cauquoin, A., Okazaki. A., and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. JJSCE
 1. Shoji, S., Okazaki, A., Yoshimura, K., Impact of proxies and prior estimates on data assimilation using isotope ratios for the climate reconstruction of the last millennium, Earth and Space Science, 9, e2020EA001618, 2022. ESS
@@ -56,6 +58,7 @@ rank: 1
 1. Ozawa, T., Fujibayashi, M., Okazaki, A., Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Presentation (selected only)
+1. Okazaki, A., Kotsuki, S., Carrio, D., Yoshimura, K., Climate reconstruction with observation errors estimated by innovation statistics, JpGU Meeting 2023, Chiba, Japan, 21-26 May 2023. <html><font color='deeppink'><i>(Invited poster)</i></font></html>
 1. Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. (Invited)
 1. Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
 1. 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. (Invited)

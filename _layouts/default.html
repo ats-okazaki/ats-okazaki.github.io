@@ -41,6 +41,7 @@
         {% endif %}
         
         {% assign sorted = site.html_pages | sort:"rank" %}
+        <h3>About</h3>
         <li><a href="{{ "/" | absolute_url }}">Home</a></li>
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
@@ -63,9 +64,9 @@
 
         <p>
         <h3>Contact</h3>
-        E-mail: atsushi.okazaki@chiba-u.jp
-        Phone: +81-43-290-3834
-        1-33 Yayoi-cho, Inage, Chiba, Chiba, 263-0022, Japan
+        E-mail: atsushi.okazaki@chiba-u.jp<br>
+        Phone: +81-43-290-3834<br>
+        1-33 Yayoi-cho, Inage, Chiba, Chiba, 263-0022, Japan<br>
         </p>
         <!-- okazaki -->
 

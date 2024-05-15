@@ -59,15 +59,15 @@ rank: 1
 
 ## Presentation (selected only)
 1. Okazaki, A., Kotsuki, S., Carrio, D., Yoshimura, K., Climate reconstruction with observation errors estimated by innovation statistics, JpGU Meeting 2023, Chiba, Japan, 21-26 May 2023. <font color='deeppink'><i>(Invited poster)</i></font>
-1. Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. (Invited)
+1. Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. <font color='deeppink'><i>(Invited)</i></font>
 1. Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
-1. 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. (Invited)
-1. Okazaki, A. and Yoshimura, K., Evaluation of proxy system models for stable water isotopes and introduction of their application to paleoclimate studies, JpGU2021, 4 Jun. 2021. (Invited)
-1. Okazaki, A., Honda, T., Kotsuki, S., Miyoshi, T., Precipitation radar data assimilation with an ensemble Kalman filter: an observing system simulation experiment for a typhoon case, ADAPT seminar, PSU, PA, US, Mar 29 2019. (invited)
-1. 2018 May, Okazaki, A., Miyoshi, T., Yoshimura, K., Zhang, F., Toward online data assimilation for the millennium reanalysis, A-CC29, JpGU 2018, Makuhari, Chiba, Japan, May 20-24 2018. (invited)
-1. 2017 May, Atsushi Okazaki, Development and evaluation of isotopic proxy data assimilation system, First workshop of the PAGES working group on Paleoclimate Reanalyses, Data Assimilation and Proxy System modelling (DAPS), Louvain-la-Neuve, Belgium, 29 May-1 Jun 2017. (invited)
-1. 2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. (invited)
-1. 2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. (invited)  
+1. 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. <font color='deeppink'><i>(Invited)</i></font>
+1. Okazaki, A. and Yoshimura, K., Evaluation of proxy system models for stable water isotopes and introduction of their application to paleoclimate studies, JpGU2021, 4 Jun. 2021. <font color='deeppink'><i>(Invited)</i></font>
+1. Okazaki, A., Honda, T., Kotsuki, S., Miyoshi, T., Precipitation radar data assimilation with an ensemble Kalman filter: an observing system simulation experiment for a typhoon case, ADAPT seminar, PSU, PA, US, Mar 29 2019. <font color='deeppink'><i>(Invited)</i></font>
+1. 2018 May, Okazaki, A., Miyoshi, T., Yoshimura, K., Zhang, F., Toward online data assimilation for the millennium reanalysis, A-CC29, JpGU 2018, Makuhari, Chiba, Japan, May 20-24 2018. <font color='deeppink'><i>(Invited)</i></font>
+1. 2017 May, Atsushi Okazaki, Development and evaluation of isotopic proxy data assimilation system, First workshop of the PAGES working group on Paleoclimate Reanalyses, Data Assimilation and Proxy System modelling (DAPS), Louvain-la-Neuve, Belgium, 29 May-1 Jun 2017. <font color='deeppink'><i>(Invited)</i></font>
+1. 2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. <font color='deeppink'><i>(Invited)</i></font>
+1. 2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. <font color='deeppink'><i>(Invited)</i></font>
 Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
@@ -119,5 +119,5 @@ Quarterly Journal of the Royal Meteorological Society (1)
 Tellus-A (1)
 
 ## Editorial board
-Oct. 2020 - : Atmosphere, Journal Topic Board
-Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources
+- Oct. 2020 - : Atmosphere, Journal Topic Board
+- Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources

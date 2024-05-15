@@ -26,9 +26,11 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        #{% if site.github.is_user_page %}
-        #<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        #{% endif %}
+        <!--
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+        -->
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -39,9 +41,7 @@
         {% endif %}
         
         {% assign sorted = site.html_pages | sort:"rank" %}
-        <li>
-          <a href="{{ "Home" | default: site.github.repository_name }}</a>
-        </li>
+        <li><a href="{{ "/" | absolute_url }}">Home</a></li>
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
             <li>

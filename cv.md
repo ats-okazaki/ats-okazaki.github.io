@@ -24,7 +24,6 @@ rank: 1
 # Achievements:
 ## Publications with reviews
 ### Submitted/In revision
-1. Kino, K., Cauquoin, A., **Okazaki. A.**, Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum. *in revision, GRL*  
 1. Morita, M., Kajita, H., **Okazaki, A.**, Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
 1. Ishidoya, S., Sugawara, S., **Okazaki. A.**, First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP*
 2. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau. *submitted to JC*
@@ -116,9 +115,10 @@ Journal of the Meteorological Society of Japan (2)
 Nature (2)
 Nature Communications (1)
 Nonlinear Processes in Geophysics (1)
+PEPS (1)
 Quarterly Journal of the Royal Meteorological Society (1)
 Tellus-A (1)
 
 ## Editorial board
-- Oct. 2020 - : Atmosphere, Journal Topic Board
+- Oct. 2020 -: Atmosphere, Journal Topic Board
 - Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources

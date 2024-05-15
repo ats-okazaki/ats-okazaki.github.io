@@ -68,6 +68,7 @@ rank: 1
 1. 2017 May, Atsushi Okazaki, Development and evaluation of isotopic proxy data assimilation system, First workshop of the PAGES working group on Paleoclimate Reanalyses, Data Assimilation and Proxy System modelling (DAPS), Louvain-la-Neuve, Belgium, 29 May-1 Jun 2017. <font color='deeppink'><i>(Invited)</i></font>
 1. 2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. <font color='deeppink'><i>(Invited)</i></font>
 1. 2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. <font color='deeppink'><i>(Invited)</i></font>
+
 Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:

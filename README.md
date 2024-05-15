@@ -19,8 +19,8 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Disentanglement of the features in Rankine vortices using VAE
   - Kurosawa, K., Okazaki, A., Exploring Meteorological Interventions through Data Assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events
   - Miyoshi, T., Oishi, S., Tomita, H., Otsuka, S., Taylor, J., Juanyu, L., Konduru, R. T., Satoh, M., Matsugishi, S., Kotsuki, S., Okazaki, A., Honda, T., Okamoto, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, S., A platform to design and pre-evaluate frequent satellite observing systems for innovating weather, ocean and land surface prediction, JpGU 2024.
-  - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations <html><font color='deeppink'><i>(Invited)</i></font></html>
-  - Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents <html><font color='deeppink'><i>(Invited)</i></font></html>
+  - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations <font color='deeppink'><i>(Invited)</i></font>
+  - Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents <font color='deeppink'><i>(Invited)</i></font>
   - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling precipitation data using convolutional neural network coupled with Wasserstein generative adversarial networks
 - EGU 2024
   - Cauquoin, A., Gusyev, M., Komuro, Y., Bong, H., Okazaki, A., and Yoshimura, K., Simulation of tritium releases into the atmosphere during the Fukushima accident and into the ocean due to planned discharge of treated water, EGU General Assembly 2024, Vienna, Austria, 14-19 April, 2024.

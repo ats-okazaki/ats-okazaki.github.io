@@ -34,8 +34,3 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - [Toonippo](https://www.toonippo.co.jp/articles/-/585435) (07/11/21)
 - A press release about GPR was published (07/07/21)
 - start working at Hirosaki University as an assistant professor (03/01/21)
-
-# Contact
-E-mail: atsushi.okazaki@chiba-u.jp  
-Phone: +81-43-290-3834  
-1-33 Yayoi-cho, Inage, Chiba, Chiba, 263-0022, Japan

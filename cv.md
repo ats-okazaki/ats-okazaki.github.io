@@ -1,3 +1,9 @@
+---
+layout: default
+title: Curriculum Vitae
+rank: 1
+---
+
 # Education:
 - **Mar., 2016:** PhD in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo
 - **Mar., 2012:** MSc in Engineering, Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo

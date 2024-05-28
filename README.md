@@ -17,11 +17,15 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - JpGU 2024
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU
   - Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Disentanglement of the features in Rankine vortices using VAE
+  - Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., Exploring Meteorological Interventions through Data assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events
   - Kurosawa, K., Okazaki, A., Exploring Meteorological Interventions through Data Assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events
-  - Miyoshi, T., Oishi, S., Tomita, H., Otsuka, S., Taylor, J., Juanyu, L., Konduru, R. T., Satoh, M., Matsugishi, S., Kotsuki, S., Okazaki, A., Honda, T., Okamoto, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, S., A platform to design and pre-evaluate frequent satellite observing systems for innovating weather, ocean and land surface prediction, JpGU 2024.
+  - Miyoshi, T., Ohishi, S., Tomita, H., Otsuka, S., Taylor, J., Liang, J., Konduru, R. T., Satoh, M. Matsugishi, S., Kotsuki, S., Okazaki, A., Honda, T., OKAMOTO, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A.,A platform to design and pre-evaluate frequent satellite observing
+systems for innovating weather, ocean and land surface prediction
+  - Miyoshi, T., Ohishi, S., Liang, J., Konduru, R. T., Otsuka, S., Kotsuki, S., Terasaki, K., Okazaki, A., Tomita, H., Kanemaru, K., Satoh, M., Yashiro, H., Okamoto, K., Kalnay, E., Kubota, T., Kachi, M., Advances and Applications of Satellite Data Assimilation of Clouds, Precipitation, and the Ocean
   - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations <font color='deeppink'><i>(Invited)</i></font>
   - Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents <font color='deeppink'><i>(Invited)</i></font>
   - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling precipitation data using convolutional neural network coupled with Wasserstein generative adversarial networks
+  - Tiwari, G., Okazaki, A., Employing parameterization schemes to proliferate large-member ensemble for heavy rainfall simulations: Susceptibility to the precipitation and trigger
 - EGU 2024
   - Cauquoin, A., Gusyev, M., Komuro, Y., Bong, H., Okazaki, A., and Yoshimura, K., Simulation of tritium releases into the atmosphere during the Fukushima accident and into the ocean due to planned discharge of treated water, EGU General Assembly 2024, Vienna, Austria, 14-19 April, 2024.
   - Li, Y., Cauquoin, A., Okazaki, A., and Yoshimura, K., Development of the Isotope-enabled Fully Coupled Model MIROC6-iso, EGU General Assembly 2024, Vienna, Austria, 14-19 April, 2024.

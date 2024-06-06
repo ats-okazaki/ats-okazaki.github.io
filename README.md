@@ -4,6 +4,8 @@ His research interests are in stable water isotopes modeling and data assimilati
 Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- ISDA
+  - Kurosawa, K., and Okazaki, A., Ensemble Approximation-based Model Predictive Control for Disaster Mitigation in Extreme Weather Events, Kobe, ISDA, Japan, 21-25 Oct. 2024.
 - Goldschmidt
   - Gusyev, M., Cauquoin, A., Yoshimura, K., Bong, H., Okazaki, A., Komuro, Y., Ono, J., Quantifying impacts of anthropogenic tritium releases at the Fukushima Daiichi Nuclear Power Plant in tritiated water cycle with numerical modeling, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
   - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.

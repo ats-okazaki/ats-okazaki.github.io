@@ -24,7 +24,9 @@ rank: 1
 # Achievements:
 ## Publications with reviews
 ### Submitted/In revision
-1. Morita, M., Kajita, H., **Okazaki, A.**, Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
+1. Inuki, K., Kaneko, R., **Okazaki, A.**, Kotsuki, S., Reconstructing Rankine Vortices from Doppler wind data using deep-learning-based generative models. *submitted to JJSCE (in Japanese)*
+2. Ketsuka, R., Muto, Y., **Okazaki, A.**, Kotsuki, S., Optimizing investment policies for flood disaster in a mathematical model with reinforcement learning. *submitted to Artificial Intelligence and Data Science (in Japanese)*
+3. Morita, M., Kajita, H., **Okazaki, A.**, Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
 1. Ishidoya, S., Sugawara, S., **Okazaki. A.**, First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-654/)
 2. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau. *submitted to JC*
 1. Otsuka, T., **Okazaki, A.**, Masaki, O., Kotsuki, S., Convex Optimization of Initial Perturbations toward Quantitative Weather Control. *submitted to GRL*

@@ -9,6 +9,7 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - 青野憲史, Nguyen Tat Trung, 前田崇, 冨井直弥, 岡崎淳史, 観測システムシミュレーション実験によるSAMRAI 観測が台風Nanmadol (2022) の予測に与えるインパクト, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
   - 中野博文, 小槻峻司, 佐藤陽祐, 荒木健太郎, 橋本明弘, 岡崎淳史, 深層学習を用いたスマートフォン撮影雪結晶の自動分類, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
   - 木野佳音, Alexandre Cauquoin, 岡崎淳史, 沖大幹, 芳村圭, 最終氷期最盛期（LGM）の南極内陸降水同位体比に総観規模大気循環による水蒸気輸送が与える影響, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
+  - 小槻峻司, 白石健太, 岡崎淳史
 - ISDA
   - Kurosawa, K., and Okazaki, A., Ensemble Approximation-based Model Predictive Control for Disaster Mitigation in Extreme Weather Events, Kobe, ISDA, Japan, 21-25 Oct. 2024.
 - Goldschmidt

@@ -17,11 +17,11 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Gusyev, M., Cauquoin, A., Yoshimura, K., Bong, H., Okazaki, A., Komuro, Y., Ono, J., Quantifying impacts of anthropogenic tritium releases at the Fukushima Daiichi Nuclear Power Plant in tritiated water cycle with numerical modeling, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
   - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
 - GEWEX
-  - Cheng, J. et al.
-  - Kino, K. et al.
-  - Kurosawa, K. and Okazaki, A.
-  - Li, Y. et al.
-  - Okazaki, A. et al.
+  - Cheng, J., Okazaki, A., Cauquoin, A., Yoshimura, K. Seasonal response of reconstructed historical ENSO to volcanism with isotopic paleoclimate data assimilation, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
+  - Kino, K., Okazaki, A., Cauquoin, A., Oki, T., Yoshimura, K., Precipitation Isotope Variations in Inland Antarctica Contributed by Episodic Warm and Moist Air Intrusion from Mid-Latitudes––For a Better Understanding of Paleoclimate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
+  - Kurosawa, K. and Okazaki, A., Bridging Data Assimilation And Control Theory Toward Disaster Mitigation In Extreme Weather Events, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
+  - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupled Model MIROC6-iso: how can it help us better understand the Asian monsoon?, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
+  - Okazaki, A., Li, Y., Kino, K., Cauquoin, A., Yoshimura, K., Evaluation Of A Newly Developed Isotope-Enabled AGCM MIROC6-Iso Under The Present Climate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
 - Kurosawa, K. et al. Adjoint Workshop.
 - JpGU 2024
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU

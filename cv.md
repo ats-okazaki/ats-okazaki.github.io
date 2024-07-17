@@ -31,6 +31,7 @@ rank: 1
 2. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Unravelling the contrasting impacts of ENSO on stable water isotopes in precipitation over the northern versus southern Tibetan Plateau. *submitted to JC*
 1. Otsuka, T., **Okazaki, A.**, Masaki, O., Kotsuki, S., Convex Optimization of Initial Perturbations toward Quantitative Weather Control. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1952/)
 2. Cauquoin, A., Maksym, G., Hayoung, B., **Okazaki, A.**, and Yoshimura, K., Modeling of tritium release into the atmosphere during the Fukushima accident. *submitted to Environmental Science & Technology*
+3. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Integrating Ensemble Kalman Filter with AI-based Weather Prediction Model ClimaX. *submitted to Nature communications*
 1. **Okazaki, A.**, On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.* 
 1. McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    

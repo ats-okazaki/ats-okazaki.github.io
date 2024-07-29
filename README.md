@@ -6,10 +6,11 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 # NEWS / Upcoming Talks
 - AGU24
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Intra-annual Age Scale Based on Oxygen Isotope Record from SE-Dome II Ice core, Greenland, AGU24, Washington, D.C., 9-13 Dec. 2024.
-  - Kaneko, R. et al.
-  - Kurosawa, K. and Okazaki, A.
-  - Okazaki, A. et al.
-  - Shiojiri, D. et al.
+  - Kaneko, R., OKazaki, A., Kotsuki, S., Precipitation super-resolution only using Restricted Boltzmann Machine, AGU24, Washington, D.C., 9-13 Dec. 2024.
+  - Kurosawa, K. and Okazaki, A., 
+  - Okazaki, A. et al., 
+  - Shiojiri, D., Muto, Y., Okazaki, A., Kotsuki, S., Estimating precipitation patterns from gauge observations using analog offline ensemble data assimilation, AGU24, Washington, D.C., 9-13 Dec. 2024.
+  - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling Precipitation Data using Convolutional Neural Network Coupled with Wasserstein Generative Adversarial Networks, AGU24, Washington, D.C., 9-13 Dec. 2024.
 - 日本気象学会
   - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
   - 青野憲史, Nguyen Tat Trung, 前田崇, 冨井直弥, 岡崎淳史, 観測システムシミュレーション実験によるSAMRAI 観測が台風Nanmadol (2022) の予測に与えるインパクト, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.

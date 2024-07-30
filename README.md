@@ -7,6 +7,7 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - AGU24
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Intra-annual Age Scale Based on Oxygen Isotope Record from SE-Dome II Ice core, Greenland, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Kaneko, R., OKazaki, A., Kotsuki, S., Precipitation super-resolution only using Restricted Boltzmann Machine, AGU24, Washington, D.C., 9-13 Dec. 2024.
+  - Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica During the Last Glacial Maximum, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Kurosawa, K. and Okazaki, A., 
   - Okazaki, A. et al., 
   - Shiojiri, D., Muto, Y., Okazaki, A., Kotsuki, S., Estimating precipitation patterns from gauge observations using analog offline ensemble data assimilation, AGU24, Washington, D.C., 9-13 Dec. 2024.

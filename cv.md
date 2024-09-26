@@ -23,7 +23,7 @@ rank: 1
 
 # Achievements:
 ## Publications with reviews
-"*" indicates my advisee's work 
+"†" indicates my advisee's work 
 ### Submitted/In revision
 1. Inuki, K., Kaneko, R., **Okazaki, A.**, Kotsuki, S., Reconstructing Rankine Vortices from Doppler wind data using deep-learning-based generative models. *submitted to JJSCE (in Japanese)*
 2. Ketsuka, R., Muto, Y., **Okazaki, A.**, Kotsuki, S., Optimizing investment policies for flood disaster in a mathematical model with reinforcement learning. *submitted to Artificial Intelligence and Data Science (in Japanese)*
@@ -34,7 +34,7 @@ rank: 1
 2. Cauquoin, A., Maksym, G., Hayoung, B., **Okazaki, A.**, and Yoshimura, K., Modeling of tritium release into the atmosphere during the Fukushima accident. *submitted to Environmental Science & Technology*
 3. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Integrating Ensemble Kalman Filter with AI-based Weather Prediction Model ClimaX. *submitted to Nature communications*
 1. **Okazaki, A.**, On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.*
-2. <sup>*</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Bridging Data Assimilation and Control: Ensemble Model Predictive1 Control for High-Dimensional Nonlinear Systems, *in prep.*
+2. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Bridging Data Assimilation and Control: Ensemble Model Predictive1 Control for High-Dimensional Nonlinear Systems, *in prep.*
 1. McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

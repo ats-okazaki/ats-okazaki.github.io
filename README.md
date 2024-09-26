@@ -1,4 +1,4 @@
-# ABOUT
+![image](https://github.com/user-attachments/assets/51e5638f-30ff-420c-95f1-68df9eb3549e)# ABOUT
 Atsushi Okazaki is an Associate Professor at Institute of Advanced Academic Research (IAAR) / Center for Environmental Remote Sensing (CEReS), Chiba University, Japan.
 His research interests are in stable water isotopes modeling and data assimilation for hydrology, weather prediction, and paleoclimate.  
 Full CV is available [HERE](https://ats-okazaki.github.io/cv)
@@ -14,6 +14,10 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Okazaki, A., Li, Y., Kino, K., Cauquoin, A., Yoshimura, K., Evaluation of an atmospheric component of newly developed isotope-enabled GCM MIROC6-iso under the present climate, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Shiojiri, D., Muto, Y., Okazaki, A., Kotsuki, S., Estimating precipitation patterns from gauge observations using analog offline ensemble data assimilation, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling Precipitation Data using Convolutional Neural Network Coupled with Wasserstein Generative Adversarial Networks, AGU24, Washington, D.C., 9-13 Dec. 2024.
+- 自動制御連合講演会
+  - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 自動制御連合講演会, 23-24 Nov. 姫路.
+  - 永井陸斗, 樋口裕太, 岡崎淳史, 小蔵正輝, ブラックボックス最適化手法の気象制御に向けた有効性評価, 自動制御連合講演会, 23-24 Nov. 姫路.
+  - Zhicheng Zhang, Yoshihiko Susuki, and Astushi Okazaki, Exploring SCALE Weather Data via Koopman Modes, 自動制御連合講演会, 23-24 Nov. 姫路.
 - 日本気象学会
   - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
   - 青野憲史, Nguyen Tat Trung, 前田崇, 冨井直弥, 岡崎淳史, 観測システムシミュレーション実験によるSAMRAI 観測が台風Nanmadol (2022) の予測に与えるインパクト, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.

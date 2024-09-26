@@ -23,7 +23,7 @@ rank: 1
 
 # Achievements:
 ## Publications with reviews
-" <sup>*</sup> " indicates my advisee's work 
+"*" indicates my advisee's work 
 ### Submitted/In revision
 1. Inuki, K., Kaneko, R., **Okazaki, A.**, Kotsuki, S., Reconstructing Rankine Vortices from Doppler wind data using deep-learning-based generative models. *submitted to JJSCE (in Japanese)*
 2. Ketsuka, R., Muto, Y., **Okazaki, A.**, Kotsuki, S., Optimizing investment policies for flood disaster in a mathematical model with reinforcement learning. *submitted to Artificial Intelligence and Data Science (in Japanese)*

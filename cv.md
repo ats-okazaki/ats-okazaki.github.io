@@ -35,7 +35,7 @@ rank: 1
 4. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *in prep.*
 1. **Okazaki, A.**, On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.*
 2. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Bridging Data Assimilation and Control: Ensemble Model Predictive1 Control for High-Dimensional Nonlinear Systems, *in prep.*
-3. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupling Model MIROC6-iso and Exploring the Drivers of δ18O Sea Water, *in prep.*
+3. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupling Model MIROC6-iso and Exploring the Drivers of δ<sup>18</sup>O Sea Water, *in prep.*
 1. McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

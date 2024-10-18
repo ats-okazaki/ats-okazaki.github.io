@@ -78,6 +78,7 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 
 # Grants:
 - 2024-2025, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), *Ultra-high spatiotemporal resolution climate reconstruction: Toward development of historical meteorology*, [24H00920](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PUBLICLY-24H00920/), PI, 7,200,000JPY.
+- 2024-2025, JST MIRAI Program, *Impact assessment of SAMRAI satellite observations on tropical cyclone forecastings*, Co-PI (PM: Naoya Tomii@JAXA), 5,200,000JPY.
 - 2023-2026, JST Moonshot Goal 8, *Artificial generation of upstream maritime heavy rains to govern intense-rain-induced disasters over land*, [JPMJMS2389-4-1](https://www.jst.go.jp/moonshot/en/program/goal8/89_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 91,500,000JPY.
 - 2023-2024, MLIT Kasensabo-Gijutsu, *Basin-scale impact-based risk assessment of the climate change*, PI, 4,000,000JPY.
 - 2023, JAXA contract resesarch (PI), 500,000JPY.

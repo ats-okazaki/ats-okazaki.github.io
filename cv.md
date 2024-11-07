@@ -27,7 +27,6 @@ rank: 1
 ### Submitted/In revision
 1. Inuki, K., Kaneko, R., **Okazaki, A.**, Kotsuki, S., Reconstructing Rankine Vortices from Doppler wind data using deep-learning-based generative models. *submitted to JJSCE (in Japanese)*
 2. Ketsuka, R., Muto, Y., **Okazaki, A.**, Kotsuki, S., Optimizing investment policies for flood disaster in a mathematical model with reinforcement learning. *submitted to Artificial Intelligence and Data Science (in Japanese)*
-3. Morita, M., Kajita, H., **Okazaki, A.**, Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Choka, *submitted to Geochemical Journal* 
 1. Ishidoya, S., Sugawara, S., **Okazaki. A.**, First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles. *submitted to ACP* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-654/)
 1. Otsuka, T., **Okazaki, A.**, Masaki, O., Kotsuki, S., Convex Optimization of Initial Perturbations toward Quantitative Weather Control. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1952/)
 2. Cauquoin, A., Maksym, G., Hayoung, B., **Okazaki, A.**, and Yoshimura, K., Modeling of tritium release into the atmosphere during the Fukushima accident. *submitted to Environmental Science & Technology*
@@ -40,7 +39,8 @@ rank: 1
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print
-1. Kino, K., Cauquoin, A., **Okazaki. A.**, Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum, Geophys. Res. Let., 2024. [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108191)
+1. Morita, M., Kajita, H., **Okazaki, A.**, Ueda, N., Umeda, K., Yamaoka, K., Uchida, E., Kawahata, H., Evaluation of Bicarbonate Flux through Groundwater and River Water at the Western Foothill of Mt. Chokai, Geochemical Journal, 2024. [GJ](https://www.jstage.jst.go.jp/article/geochemj/advpub/0/advpub_GJ24021/_article) 
+2. Kino, K., Cauquoin, A., **Okazaki. A.**, Oki, T. and Yoshimura, K., Heavy Water Isotope Precipitation in Inland East Antarctica Accompanied by Strong Southern Westerly Winds during the Last Glacial Maximum, Geophys. Res. Let., 2024. [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108191)
 1. Cauquoin, A., Fourre, E., Landais, A., **Okazaki, A.**, Yoshimura, K., Modeling natural tritium in precipitation and its dependence on decadal variations of solar activity using the atmospheric general circulation model MIROC5-iso, JGR-Atmos, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039745)
 1. Bong, H., Cauquoin, A., **Okazaki, A.**, Chang, E.-C., Werner, M., Wei, Z., Yeo, N., and Yoshimura, K., Process-based inter-comparison of water isotope-enabled models and reanalysis nudging effects, JGR-Atmos, 129, e2023JD038719, 2024. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038719)
 1. Li. Y., Cauquoin, A., **Okazaki. A.**, and Yoshimura, K., Development of the isotope version of the fully coupled climate model MIROC6-iso, JJSCE,12, 2, 23-16035, 2024. [JJSCE](https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16035/_article/-char/ja/)

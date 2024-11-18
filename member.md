@@ -20,6 +20,7 @@ rank: 2
 # Alumni 
 ## @Chia University
   * Aono, Kenji (Technical Assistant, Jan 2024-??? 2024)
+
 ## @Hirosaki University
   * Matthew McKinney (Postdoc, Mar-Sep 2023)
   * Shino Suzuki (Technical Assistant, Apr-Sep 2023)

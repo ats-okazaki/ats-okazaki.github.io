@@ -4,16 +4,22 @@ title: Lab member
 rank: 2
 ---
 
-# Current Members (As of April 2024)
-  * Kenji Aono (Technical Assistant, Jan 2024-)
-  * Tomoko Ichimiya (Technical Assistant, Feb 2024-)
-  * Kenta Kurosawa (Postdoc, Jan 2024-)
-  * Gaurav Tiwari (Postdoc, Mar 2023-)
-  * Takaya Shimabukuro (M1)
-  * Yuki Saito (M1)
-  * Mahiro Takahashi (M1)
+# Current Members (As of Nov 2024)
+  * Aono, Kenji (Postdoc, Jun 2024-)
+  * Khan, Muhammad Abid (Postdoc, Nov 2024-)
+  * Kurosawa, Kenta (Postdoc, Jan 2024-)
+  * Tiwari, Gaurav (Postdoc, Mar 2023-)
+  * Ichimiya, Tomoko (Technical Assistant, Feb 2024-)
+  * Suzumura, Tomoe  (Technical Assistant, May 2024-)
+  * Takahashi, Mahiro (M2)
+  * Saito, Yuki (M1)
+  * Matsukura, Yuki (B3)
+  * Otaki, Haruto (B3)
+
 
 # Alumni 
+## @Chia University
+  * Aono, Kenji (Technical Assistant, Jan 2024-??? 2024)
 ## @Hirosaki University
   * Matthew McKinney (Postdoc, Mar-Sep 2023)
   * Shino Suzuki (Technical Assistant, Apr-Sep 2023)

@@ -128,5 +128,5 @@ Quarterly Journal of the Royal Meteorological Society (1)
 Tellus-A (1)
 
 ## Editorial board
-- Oct. 2020 -: Atmosphere, Journal Topic Board
+- Nov. 2024 -: Journal of Japan Society of Hydrology and Water Resources
 - Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources

@@ -5,7 +5,7 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
 - AMS25
-  - Kurosawa, K., Okazaki, A., Ensemble-Approximated Model Predictive Control for Meteorological Applications
+  - Kurosawa, K., Okazaki, A., Ensemble-Approximated Model Predictive Control for Meteorological Applications, The 105th AMS Annual Meeting, 12-16 Jan. 2025, New Orleans, US.
 - AGU24
   - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Intra-annual Age Scale Based on Oxygen Isotope Record from SE-Dome II Ice core, Greenland, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Kaneko, R., OKazaki, A., Kotsuki, S., Precipitation super-resolution only using Restricted Boltzmann Machine, AGU24, Washington, D.C., 9-13 Dec. 2024.
@@ -15,9 +15,9 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Shiojiri, D., Muto, Y., Okazaki, A., Kotsuki, S., Estimating precipitation patterns from gauge observations using analog offline ensemble data assimilation, AGU24, Washington, D.C., 9-13 Dec. 2024.
   - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling Precipitation Data using Convolutional Neural Network Coupled with Wasserstein Generative Adversarial Networks, AGU24, Washington, D.C., 9-13 Dec. 2024.
 - 自動制御連合講演会
-  - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 自動制御連合講演会, 23-24 Nov. 姫路.
-  - 永井陸斗, 樋口裕太, 岡崎淳史, 小蔵正輝, ブラックボックス最適化手法の気象制御に向けた有効性評価, 自動制御連合講演会, 23-24 Nov. 姫路.
-  - Zhicheng Zhang, Yoshihiko Susuki, and Astushi Okazaki, Exploring SCALE Weather Data via Koopman Modes, 自動制御連合講演会, 23-24 Nov. 姫路.
+  - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 自動制御連合講演会, 23-24 Nov. 2024, 姫路.
+  - 永井陸斗, 樋口裕太, 岡崎淳史, 小蔵正輝, ブラックボックス最適化手法の気象制御に向けた有効性評価, 自動制御連合講演会, 23-24 Nov. 2024, 姫路.
+  - Zhicheng Zhang, Yoshihiko Susuki, and Astushi Okazaki, Exploring SCALE Weather Data via Koopman Modes, 自動制御連合講演会, 23-24 Nov. 2024, 姫路.
 - 日本気象学会
   - 黒澤賢太, 岡崎淳史, 高次元非線形システムのためのアンサンブル近似を用いたモデル予測制御, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
   - 青野憲史, Nguyen Tat Trung, 前田崇, 冨井直弥, 岡崎淳史, 観測システムシミュレーション実験によるSAMRAI 観測が台風Nanmadol (2022) の予測に与えるインパクト, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
@@ -33,24 +33,24 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Gusyev, M., Cauquoin, A., Yoshimura, K., Bong, H., Okazaki, A., Komuro, Y., Ono, J., Quantifying impacts of anthropogenic tritium releases at the Fukushima Daiichi Nuclear Power Plant in tritiated water cycle with numerical modeling, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
   - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
 - GEWEX
-  - Cheng, J., Okazaki, A., Cauquoin, A., Yoshimura, K. Seasonal response of reconstructed historical ENSO to volcanism with isotopic paleoclimate data assimilation, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
-  - Kino, K., Okazaki, A., Cauquoin, A., Oki, T., Yoshimura, K., Precipitation Isotope Variations in Inland Antarctica Contributed by Episodic Warm and Moist Air Intrusion from Mid-Latitudes––For a Better Understanding of Paleoclimate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
-  - Kurosawa, K. and Okazaki, A., Bridging Data Assimilation And Control Theory Toward Disaster Mitigation In Extreme Weather Events, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
-  - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupled Model MIROC6-iso: how can it help us better understand the Asian monsoon?, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
-  - Okazaki, A., Li, Y., Kino, K., Cauquoin, A., Yoshimura, K., Evaluation Of A Newly Developed Isotope-Enabled AGCM MIROC6-Iso Under The Present Climate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul., Sapporo, Japan.
+  - Cheng, J., Okazaki, A., Cauquoin, A., Yoshimura, K. Seasonal response of reconstructed historical ENSO to volcanism with isotopic paleoclimate data assimilation, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul. 2024, Sapporo, Japan.
+  - Kino, K., Okazaki, A., Cauquoin, A., Oki, T., Yoshimura, K., Precipitation Isotope Variations in Inland Antarctica Contributed by Episodic Warm and Moist Air Intrusion from Mid-Latitudes––For a Better Understanding of Paleoclimate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul. 2024, Sapporo, Japan.
+  - Kurosawa, K. and Okazaki, A., Bridging Data Assimilation And Control Theory Toward Disaster Mitigation In Extreme Weather Events, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul. 2024, Sapporo, Japan.
+  - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupled Model MIROC6-iso: how can it help us better understand the Asian monsoon?, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul. 2024, Sapporo, Japan.
+  - Okazaki, A., Li, Y., Kino, K., Cauquoin, A., Yoshimura, K., Evaluation Of A Newly Developed Isotope-Enabled AGCM MIROC6-Iso Under The Present Climate, 9th Global Energy and Water Exchanges Open Science Conference (GEWEX), 8-11 Jul. 2024, Sapporo, Japan.
 - Kurosawa, K. et al. Adjoint Workshop.
 - JpGU 2024
-  - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU
-  - Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Disentanglement of the features in Rankine vortices using VAE
-  - Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., Exploring Meteorological Interventions through Data assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events
-  - Kurosawa, K., Okazaki, A., Exploring Meteorological Interventions through Data Assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events
+  - Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Disentanglement of the features in Rankine vortices using VAE, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., Exploring Meteorological Interventions through Data assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Kurosawa, K., Okazaki, A., Exploring Meteorological Interventions through Data Assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
   - Miyoshi, T., Ohishi, S., Tomita, H., Otsuka, S., Taylor, J., Liang, J., Konduru, R. T., Satoh, M. Matsugishi, S., Kotsuki, S., Okazaki, A., Honda, T., OKAMOTO, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A.,A platform to design and pre-evaluate frequent satellite observing
-systems for innovating weather, ocean and land surface prediction
-  - Miyoshi, T., Ohishi, S., Liang, J., Konduru, R. T., Otsuka, S., Kotsuki, S., Terasaki, K., Okazaki, A., Tomita, H., Kanemaru, K., Satoh, M., Yashiro, H., Okamoto, K., Kalnay, E., Kubota, T., Kachi, M., Advances and Applications of Satellite Data Assimilation of Clouds, Precipitation, and the Ocean
-  - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations <font color='deeppink'><i>(Invited)</i></font>
-  - Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents <font color='deeppink'><i>(Invited)</i></font>
-  - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling precipitation data using convolutional neural network coupled with Wasserstein generative adversarial networks
-  - Tiwari, G., Okazaki, A., Employing parameterization schemes to proliferate large-member ensemble for heavy rainfall simulations: Susceptibility to the precipitation and trigger
+systems for innovating weather, ocean and land surface prediction, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Miyoshi, T., Ohishi, S., Liang, J., Konduru, R. T., Otsuka, S., Kotsuki, S., Terasaki, K., Okazaki, A., Tomita, H., Kanemaru, K., Satoh, M., Yashiro, H., Okamoto, K., Kalnay, E., Kubota, T., Kachi, M., Advances and Applications of Satellite Data Assimilation of Clouds, Precipitation, and the Ocean, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
+  - Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
+  - Shiraishi, K., Muto, Y., Okazaki, A., Kotsuki, S., Downscaling precipitation data using convolutional neural network coupled with Wasserstein generative adversarial networks, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+  - Tiwari, G., Okazaki, A., Employing parameterization schemes to proliferate large-member ensemble for heavy rainfall simulations: Susceptibility to the precipitation and trigger, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
 - EGU 2024
   - Cauquoin, A., Gusyev, M., Komuro, Y., Bong, H., Okazaki, A., and Yoshimura, K., Simulation of tritium releases into the atmosphere during the Fukushima accident and into the ocean due to planned discharge of treated water, EGU General Assembly 2024, Vienna, Austria, 14-19 April, 2024.
   - Li, Y., Cauquoin, A., Okazaki, A., and Yoshimura, K., Development of the Isotope-enabled Fully Coupled Model MIROC6-iso, EGU General Assembly 2024, Vienna, Austria, 14-19 April, 2024.

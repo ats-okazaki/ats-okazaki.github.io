@@ -31,9 +31,9 @@ rank: 1
 2. Cauquoin, A., Maksym, G., Hayoung, B., **Okazaki, A.**, and Yoshimura, K., Modeling of tritium release into the atmosphere during the Fukushima accident. *submitted to Environmental Science & Technology*
 3. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
 4. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *submitted to JGR-Atmos*
-5. Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Challenges in Modeling Synoptic-scale Variability of Water Vapor Isotopes over the Southern Ocean. *in prep.*
+5. Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Challenges in Modeling Synoptic-scale Variability of Water Vapor Isotopes over the Southern Ocean. *submitted to HRL*
+6. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Kotsuki, K., Bridging Data Assimilation and Control: Ensemble Model Predictive Control for High-Dimensional Nonlinear Systems, *in prep*
 1. **Okazaki, A.**, On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.*
-2. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Bridging Data Assimilation and Control: Ensemble Model Predictive1 Control for High-Dimensional Nonlinear Systems, *in prep.*
 3. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Evaluation of the Isotope-enabled Fully Coupling Model MIROC6-iso and Exploring the Drivers of δ<sup>18</sup>O Sea Water, *in prep.*
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    

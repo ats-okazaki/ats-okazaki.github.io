@@ -4,8 +4,10 @@ His research interests are in stable water isotopes modeling and data assimilati
 Full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- ICCS2025
+  - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Evaluating the Effectiveness of Black Box Optimization Methods toward Weather Control, 25th International Conference on Computational Science, 7-9 Jul. 2025, Singapore.
 - EGU General Assembly 2025
-  - Mitsui, T., Kotsuki, S., Fujiwara, F., Okazaki, A., Tokuda, T., Mitigating extreme events through multi-Scenario ensemble forecasts and local interventions in the Lorenz 96 model, EGU General Assembly 2025, Vienna, Austria, 27 April - 2 May 2025.
+  - Mitsui, T., Kotsuki, S., Fujiwara, F., Okazaki, A., Tokuda, T., Mitigating extreme events through multi-Scenario ensemble forecasts and local interventions in the Lorenz 96 model, EGU General Assembly 2025, Vienna, Austria, 27 April-2 May 2025.
 - AMS25
   - Kurosawa, K., Okazaki, A., Ensemble-Approximated Model Predictive Control for Meteorological Applications, The 105th AMS Annual Meeting, 12-16 Jan. 2025, New Orleans, US.
 - AGU24

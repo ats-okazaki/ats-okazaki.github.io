@@ -64,7 +64,9 @@ rank: 1
 1. Ozawa, T., Fujibayashi, M., **Okazaki, A.**, Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Presentation (selected only)
-1. Okazaki, A., Kotsuki, S., Carrio, D., Yoshimura, K., Climate reconstruction with observation errors estimated by innovation statistics, JpGU Meeting 2023, Chiba, Japan, 21-26 May 2023. <font color='deeppink'><i>(Invited poster)</i></font>
+1. Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
+1. Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
+2. Okazaki, A., Kotsuki, S., Carrio, D., Yoshimura, K., Climate reconstruction with observation errors estimated by innovation statistics, JpGU Meeting 2023, Chiba, Japan, 21-26 May 2023. <font color='deeppink'><i>(Invited poster)</i></font>
 1. Okazaki, A., Observation Error Estimation for Climate Proxies with Innovation Statistics, DA Seminar, RIKEN R-CCS, Kobe, Japan, 14 Nov. 2022. <font color='deeppink'><i>(Invited)</i></font>
 1. Okazaki, A. and Yoshimura, K., Paleoclimate Reconstruction with Isotope-Enabled GCM and Proxy System Models, IsoNet 2022, Virtual Seminar, 6 Oct. 2022.(Invited)
 1. 岡崎淳史、データ同化とイノベーション統計を用いた古気候復元と気候プロキシに含まれる誤差の推定、日本地球化学第69回年会、高知、7-9 Sep 2022. <font color='deeppink'><i>(Invited)</i></font>

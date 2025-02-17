@@ -20,7 +20,7 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Okazaki, A.,
   - Miyoshi, T., Oishi, S., Tomita, H., Otsuka, S., Taylor, J., Goodliff, M., Liang, J, Konduru, R. T., Sato, M., Honda, T., Matsugishi, S., Kotsuki, S., Okazaki, A., Okamoto, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A., A platform to design and pre-evaluate frequent satellite observing systems for innovating weather, ocean and land surface prediction, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Mitsui, T., Kotsuki, S., Fujiwara, N., Okazaki, A., Tokuda, K., 
-  - Takahashi, M., Okazaki, A.,
+  - Takahashi, M., Okazaki, A., Development of mountain wave prediction method at Hanamaki airport for safe operation of aircraft, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
 - ICCS2025
   - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Evaluating the Effectiveness of Black Box Optimization Methods toward Weather Control, 25th International Conference on Computational Science, 7-9 Jul. 2025, Singapore.
 - EGU General Assembly 2025

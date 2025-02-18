@@ -6,14 +6,15 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 # NEWS / Upcoming Talks
 - AOGS
   - Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications: A case of September 2015 Kanto-Tohoku Heavy Rainfall, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
+  - Okazaki, A., 
   - Takahashi, M., Okazaki, A.,
 - PAGES2K
   - Cheng, J., Cauquoin, A., Okazaki, A., Yoshimura, K., Reconstruction of Climate Variability over the Common Era with Paleoclimate Data Assimilation, PAGES 2025 7th Open Science Meeting, Shanghai, China, 19-24 May 2025.
   - Kino, K., Okazaki, A., Cauquoin, A., Oki, T., Yoshimura, K., Impact of meteorological-scale phenomena on paleoclimate reconstructions: Uncertainties in stable water isotope variations in Antarctic ice cores due to synoptic-scale atmospheric circulation, PAGES 2025 7th Open Science Meeting, Shanghai, China, 19-24 May 2025.
 - JpGU 2025
-  - Aono, K.,
-  - Aono, K.,
-  - Higuchi, Y., 
+  - Aono, K., Trung, N. T., Maeda, T., Tomii, N., Okazaki, A., Observing system simulation experiment for tropical cyclone prediction using SAMRAI, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
+  - Aono, K., Sugimoto, S., Okazaki, A., 
+  - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Miyanao, N., 
   - Ishidoya, S., Sugawara, S., Okazaki, A., Diurnal, seasonal, and interannual variations in δ18O of atmospheric O2 and its application to evaluate natural/anthropogenic changes in oxygen, carbon, and water cycles, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Kino, K., Challenges in modeling daily-scale variability of stable isotopes in water vapor over the Southern Ocean, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Kurosawa, K., Okazaki, A., Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications, 

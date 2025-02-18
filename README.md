@@ -1,11 +1,11 @@
 # ABOUT
-Atsushi Okazaki is an Associate Professor at Institute of Advanced Academic Research (IAAR) / Center for Environmental Remote Sensing (CEReS), Chiba University, Japan.
-His research interests are in stable water isotopes modeling and data assimilation for hydrology, weather prediction, and paleoclimate.  
-Full CV is available [HERE](https://ats-okazaki.github.io/cv)
+Atsushi Okazaki is an Associate Professor at the Institute of Advanced Academic Research (IAAR) / Center for Environmental Remote Sensing (CEReS), Chiba University, Japan.
+His research interests are in stable water isotope modeling and data assimilation for hydrology, weather prediction, and paleoclimate.  
+The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
 - AOGS
-  - Kurosawa, K., Okazaki, A.,
+  - Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications: A case of September 2015 Kanto-Tohoku Heavy Rainfall, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
   - Takahashi, M., Okazaki, A.,
 - PAGES2K
   - Cheng, J., Cauquoin, A., Okazaki, A., Yoshimura, K., Reconstruction of Climate Variability over the Common Era with Paleoclimate Data Assimilation, PAGES 2025 7th Open Science Meeting, Shanghai, China, 19-24 May 2025.
@@ -16,7 +16,7 @@ Full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Higuchi, Y., 
   - Ishidoya, S., Sugawara, S., Okazaki, A., Diurnal, seasonal, and interannual variations in δ18O of atmospheric O2 and its application to evaluate natural/anthropogenic changes in oxygen, carbon, and water cycles, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Kino, K., Challenges in modeling daily-scale variability of stable isotopes in water vapor over the Southern Ocean, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
-  - Kurosawa, K., Okazaki, A.,
+  - Kurosawa, K., Okazaki, A., Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications, 
   - Okazaki, A.,
   - Miyoshi, T., Oishi, S., Tomita, H., Otsuka, S., Taylor, J., Goodliff, M., Liang, J, Konduru, R. T., Sato, M., Honda, T., Matsugishi, S., Kotsuki, S., Okazaki, A., Okamoto, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A., A platform to design and pre-evaluate frequent satellite observing systems for innovating weather, ocean and land surface prediction, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Mitsui, T., Kotsuki, S., Fujiwara, N., Okazaki, A., Tokuda, K., 

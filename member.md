@@ -18,7 +18,7 @@ rank: 2
 
 
 # Alumni 
-## @Chia University
+## @Chiba University
   * Aono, Kenji (Technical Assistant, Jan 2024-??? 2024)
 
 ## @Hirosaki University

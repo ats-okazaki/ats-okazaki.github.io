@@ -41,12 +41,14 @@
         {% endif %}
         
         {% assign sorted = site.html_pages | sort:"rank" %}
+        <hr>
         <h3>About</h3>
-        <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+        <!--<li><a href="{{ "/" | absolute_url }}">Home</a></li>-->
+        <li><a href="{{ "/" | absolute_url }}">Home</a><br>
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
             <!--<li>-->
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a><br>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             <!--</li>-->
           {% endif %}

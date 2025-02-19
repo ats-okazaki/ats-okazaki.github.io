@@ -44,7 +44,7 @@
         <hr>
         <h3>About</h3>
         <!--<li><a href="{{ "/" | absolute_url }}">Home</a></li>-->
-        <li><a href="{{ "/" | absolute_url }}">Home</a><br>
+        <a href="{{ "/" | absolute_url }}">Home</a><br>
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
             <!--<li>-->

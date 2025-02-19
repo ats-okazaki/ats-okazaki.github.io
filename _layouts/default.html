@@ -45,14 +45,15 @@
         <li><a href="{{ "/" | absolute_url }}">Home</a></li>
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
-            <li>
+            <!--<li>-->
               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-            </li>
+            <!--</li>-->
           {% endif %}
         {% endfor %}
 
         <!-- okazaki -->
+        <hr>
         <p>
         <h3>Links</h3>
         <html><head><script src="https://kit.fontawesome.com/ee0e68c65e.js" crossorigin="anonymous"></script></head></html>
@@ -62,6 +63,7 @@
         <html><a href="https://www.researchgate.net/profile/Atsushi-Okazaki" target="_blank" title="jump to AO's RG"><i class="fab fa-researchgate" style="color: #055EAC;font-size:2em"></i></a></html>
         </p>
 
+        <hr>
         <p>
         <h3>Contact</h3>
         E-mail: atsushi.okazaki@chiba-u.jp<br>

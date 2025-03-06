@@ -4,6 +4,8 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- So
+  - Watanabe, M., et al., Communicating Ensemble Flood Forecasts with Municipal Officials: A Case Study in Aomori, Japan, The 2nd International Sociohydrology Conference, 19-21 July 2025, Tokyo.
 - AOGS
   - Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications: A case of September 2015 Kanto-Tohoku Heavy Rainfall, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
   - Okazaki, A., 

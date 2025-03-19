@@ -4,6 +4,8 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- WMO Weather Modification
+  - Higuchi,  
 - International Sociohydrology Conference 
   - Watanabe, M., et al., Communicating Ensemble Flood Forecasts with Municipal Officials: A Case Study in Aomori, Japan, The 2nd International Sociohydrology Conference, 19-21 July 2025, Tokyo.
 - 2025 American Control Conference
@@ -21,10 +23,11 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Miyanao, N., 
   - Ishidoya, S., Sugawara, S., Okazaki, A., Diurnal, seasonal, and interannual variations in δ18O of atmospheric O2 and its application to evaluate natural/anthropogenic changes in oxygen, carbon, and water cycles, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
   - Kino, K., Challenges in modeling daily-scale variability of stable isotopes in water vapor over the Southern Ocean, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
-  - Kurosawa, K., Okazaki, A., Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications, 
+  - Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications, 
   - Okazaki, A.,
   - Miyoshi, T., Oishi, S., Tomita, H., Otsuka, S., Taylor, J., Goodliff, M., Liang, J, Konduru, R. T., Sato, M., Honda, T., Matsugishi, S., Kotsuki, S., Okazaki, A., Okamoto, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A., A platform to design and pre-evaluate frequent satellite observing systems for innovating weather, ocean and land surface prediction, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
-  - Mitsui, T., Kotsuki, S., Fujiwara, N., Okazaki, A., Tokuda, K., 
+  - Mitsui, T., Kotsuki, S., Fujiwara, N., Okazaki, A., Tokuda, K.,
+  - Suzumura, T., Okazaki, A., 
   - Takahashi, M., Okazaki, A., Development of mountain wave prediction method at Hanamaki airport for safe operation of aircraft, JpGU Meeting 2025, Chiba, Japan, 25-30 May 2025.
 - ICCS2025
   - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Evaluating the Effectiveness of Black Box Optimization Methods toward Weather Control, 25th International Conference on Computational Science, 7-9 Jul. 2025, Singapore.

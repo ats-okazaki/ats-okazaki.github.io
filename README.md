@@ -10,8 +10,8 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Kurosawa,K. and Okazaki, A., Development of a Control Simulation Framework for Meteorological Models with Ensemble Model Predictive Control, 2025 American Control Conference, 7-10 Jul 2025, Denver.
 - AOGS
   - Kurosawa, K., Okazaki, A., Ensemble-Based Model Predictive Control for Meteorological Applications: A case of September 2015 Kanto-Tohoku Heavy Rainfall, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
-  - Okazaki, A., 
-  - Takahashi, M., Okazaki, A.,
+  - Okazaki, A., Ito, K., Tajiri, Y., Watanabe, S., Ultra-high Spatiotemporal Resolution Reconstruction of the Climate Around Japan with Large Ensemble of Climate Simulations and Old Documents, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
+  - Takahashi, M., Okazaki, A., Development of a Mountain Wave Prediction Method at Hanamaki Airport for Safe Aircraft Operations and Motion Control, AOGS2025 22nd Annual Meeting, 27 Jul-1 Aug 2025, Singapore.
 - PAGES2K
   - Cheng, J., Cauquoin, A., Okazaki, A., Yoshimura, K., Reconstruction of Climate Variability over the Common Era with Paleoclimate Data Assimilation, PAGES 2025 7th Open Science Meeting, Shanghai, China, 19-24 May 2025.
   - Kino, K., Okazaki, A., Cauquoin, A., Oki, T., Yoshimura, K., Impact of meteorological-scale phenomena on paleoclimate reconstructions: Uncertainties in stable water isotope variations in Antarctic ice cores due to synoptic-scale atmospheric circulation, PAGES 2025 7th Open Science Meeting, Shanghai, China, 19-24 May 2025.

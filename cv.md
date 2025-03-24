@@ -34,7 +34,8 @@ rank: 1
 2. Mitsui, T., Kotsuki, S., Fujiwara, N., **Okazaki, A.**, Tokuda, K., Bottom-up approach for mitigating extreme events under limited intervention options: a case study with Lorenz 96, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-987/)
 4. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to GRL*
 3. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Improved response of δ<sup>18</sup>Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, *submitted to JAMES*
-1. **Okazaki, A.**, On the observation errors in climate proxies in paleoclimate reconstruction with data assimilation, *in prep.*
+1. **Okazaki, A.**, Carrio, D., Dalaiden, Q., Harrison-Lofthouse, J., Kotsuki, S., Yoshimura, K., Observation error estimation in climate proxies with data assimilation and innovation statistics, *submitted to CP*
+2. Kawasaki, F., et al.
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

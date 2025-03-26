@@ -25,15 +25,15 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-3. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
-5. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *submitted to JGR-Atmos*
-6. Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Challenges in Modeling Synoptic-scale Variability of Water Vapor Isotopes over the Southern Ocean. *submitted to HRL*
+1. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
+1. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *submitted to JGR-Atmos*
+1. Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Challenges in Modeling Synoptic-scale Variability of Water Vapor Isotopes over the Southern Ocean. *submitted to HRL*
 1. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Kotsuki, K., Bridging Data Assimilation and Control: Ensemble Model Predictive Control for High-Dimensional Nonlinear Systems, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-595/)
-2. Mitsui, T., Kotsuki, S., Fujiwara, N., **Okazaki, A.**, Tokuda, K., Bottom-up approach for mitigating extreme events under limited intervention options: a case study with Lorenz 96, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-987/)
-4. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to GRL*
-3. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Improved response of δ<sup>18</sup>Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, *submitted to JAMES*
+1. Mitsui, T., Kotsuki, S., Fujiwara, N., **Okazaki, A.**, Tokuda, K., Bottom-up approach for mitigating extreme events under limited intervention options: a case study with Lorenz 96, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-987/)
+1. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to GRL*
+1. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Improved response of δ<sup>18</sup>Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, *submitted to JAMES*
 1. **Okazaki, A.**, Carrio, D., Dalaiden, Q., Harrison-Lofthouse, J., Kotsuki, S., Yoshimura, K., Observation error estimation in climate proxies with data assimilation and innovation statistics, *submitted to CP*
-2. Kawasaki, F., et al.
+1. Kawasaki, F., et al.
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

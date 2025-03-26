@@ -17,6 +17,7 @@
 1. 小槻峻司, 白石健太, 岡崎淳史, Vision Transformer型AI天気予報モデルを用いたアンサンブルカルマンフィルタClimaX-LETKFの開発, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
 1. 岡崎淳史, 小槻峻司, 芳村圭, イノベーション統計を用いた気候プロキシの誤差推定, 日本気象学会秋季大会, 12-15 Nov. 2024, つくば.
 1. Kurosawa, K., and Okazaki, A., Ensemble Approximation-based Model Predictive Control for Disaster Mitigation in Extreme Weather Events, ISDA, 21-25 Oct. 2024, Kobe, Japan.
+2. Shiojir, D., Muto, Y., Okazaki, A., Kotsuki, S., Analog offline ensemble data assimilation for estimating precipitation patterns from gauge observations, ISDA, 21-25 Oct. 2024, Kobe, Japan.
 1. Takeshima, A., Okazaki, A., Kotsuki, S., Investigating importance of resampling frequency of the local particle filter with Ganssian mixture, ISDA, 21-25 Oct. 2024, Kobe, Japan.
 1. Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Reconstructing Rankine vortices from Doppler wind data using deep-learning-based generative models, ISDA, 21-25 Oct. 2024, Kobe, Japan.
 1. Gusyev, M., Cauquoin, A., Yoshimura, K., Bong, H., Okazaki, A., Komuro, Y., Ono, J., Quantifying impacts of anthropogenic tritium releases at the Fukushima Daiichi Nuclear Power Plant in tritiated water cycle with numerical modeling, Goldschmidt 2024, Chicago, IL, USA, 18-23 Aug 2024.
@@ -29,7 +30,7 @@
 1. Kurosawa, K. et al. Adjoint Workshop.
 1. Hamamoto, S., Kawakami, K., Sasage, M., Matsumoto, M., Bong, H., Yoshimura, K., Okazaki, A., Matoba, S., Iizuka, Y., Uemura, R., Seasonal Age Scale and Intra-annual Pattern of Oxygen Isotope Record from SE-Dome II Ice core, Greenland, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
 1. Inuki, K., Kaneko, R., Okazaki, A., Kotsuki, S., Disentanglement of the features in Rankine vortices using VAE, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
-1. Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., Exploring Meteorological Interventions through Data assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
+1. Kino, K., Cauquoin, A., Okazaki, A., Oki, T., Yoshimura, K., 総観規模大気循環による水蒸気輸送が最終氷期最盛期の南極内陸降水同位体比に与える影響, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
 1. Kurosawa, K., Okazaki, A., Exploring Meteorological Interventions through Data Assimilation and Model Predictive Control toward Disaster Mitigation in Extreme Weather Events, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.
 1. Miyoshi, T., Ohishi, S., Tomita, H., Otsuka, S., Taylor, J., Liang, J., Konduru, R. T., Satoh, M. Matsugishi, S., Kotsuki, S., Okazaki, A., Honda, T., OKAMOTO, K., Ikuta, Y., Terasaki, K., Yashiro, H., Kanemaru, K., Yamazaki, A.,A platform to design and pre-evaluate frequent satellite observing
 systems for innovating weather, ocean and land surface prediction, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan.

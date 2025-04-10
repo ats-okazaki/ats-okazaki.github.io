@@ -25,7 +25,7 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-2. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
+1. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
 1. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *submitted to JGR-Atmos*
 1. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Kotsuki, K., Bridging Data Assimilation and Control: Ensemble Model Predictive Control for High-Dimensional Nonlinear Systems, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-595/)
 1. Mitsui, T., Kotsuki, S., Fujiwara, N., **Okazaki, A.**, Tokuda, K., Bottom-up approach for mitigating extreme events under limited intervention options: a case study with Lorenz 96, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-987/)

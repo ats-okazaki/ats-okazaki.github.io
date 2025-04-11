@@ -104,6 +104,7 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 - 2013-2014, Grant-in-Aid for JSPS Fellows, [13J09182](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-13J09182/), PI, 2,000,000 JPY.
 
 # Computer Resources
+- 2025: Fugaku, General Access, *Feasibility study of weather control with model predictive control under idealized conditions*, hp250178, 3,195,900 NH.
 - 2024: Fugaku, General Access, *Development and Demonstration of Model Predictive Control Method for Weather Control*, hp240169, 2,518,125 NH. 
 - 2023: Fugaku, Fugaku Trial for General Access, *Application of SCALE-LETKF for studies on weather control*, hp230317 and hp230476, 61,200 NH.
 - 2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, *Study on paleoclimate reconstruction with data assimilation*, 16,000 NH.

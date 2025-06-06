@@ -43,6 +43,8 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Evaluating the Effectiveness of Black Box Optimization Methods toward Weather Control, 25th International Conference on Computational Science, 7-9 Jul. 2025, Singapore.
 - EGU General Assembly 2025
   - Mitsui, T., Kotsuki, S., Fujiwara, F., Okazaki, A., Tokuda, K., Mitigating extreme events through multi-Scenario ensemble forecasts and local interventions in the Lorenz 96 model, EGU General Assembly 2025, Vienna, Austria, 27 April-2 May 2025.
+- A press release about oxygen-isotope measurement was published 
+  - [AIST] (02/25/2025)
 - Start working at Chiba University as an associate professor (10/01/23)
 - Awarded “Hirosaki University Outstanding Young Tehsis Award” (10/21/2022)
 - Will attend Uncertainty quantification in models and data, 30th PMIP anniversary as a panelist on 3 Dec. 2021.

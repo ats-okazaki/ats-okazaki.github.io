@@ -139,3 +139,6 @@ Tellus-A (1)
 ## Editorial board
 - Nov. 2024 -: Journal of Japan Society of Hydrology and Water Resources
 - Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources
+
+## Committee member
+- May 2025-: Japan Society of Civil Engineers, Committee on Hydroscience and Hydraulic Engineering 

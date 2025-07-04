@@ -25,7 +25,6 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-1. Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
 1. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau. *submitted to JGR-Atmos*
 1. Mitsui, T., Kotsuki, S., Fujiwara, N., **Okazaki, A.**, Tokuda, K., Bottom-up approach for mitigating extreme events under limited intervention options: a case study with Lorenz 96, *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-987/)
 1. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to GRL*
@@ -36,6 +35,7 @@ rank: 1
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print
+1. <span style='color: deeppink; font-style: italic'>Accepted</span> Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1., *NPG*, 2025. [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
 1. <span style='color: deeppink; font-style: italic'>Accepted</span> <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Kotsuki, K., Bridging Data Assimilation and Control: Ensemble Model Predictive Control for High-Dimensional Nonlinear Systems, *NPG*, 2025. [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-595/)
 2. <span style='color: deeppink; font-style: italic'>Accepted</span> Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, ICCS2025, 2025.
 3. <span style='color: deeppink; font-style: italic'>Accepted</span> Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Challenges in Modeling Synoptic-scale Variability of Water Vapor Isotopes over the Southern Ocean, HRL, 2025.

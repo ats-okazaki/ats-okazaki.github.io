@@ -9,9 +9,9 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - WMO Weather Modification
   - Higuchi,
 - 水文・水資源学会
-  - 
+  - 岡崎
 - International Symposium on Data Assimilation
-  - 
+  - Okazaki
 - International Sociohydrology Conference 
   - Watanabe, M., et al., Communicating Ensemble Flood Forecasts with Municipal Officials: A Case Study in Aomori, Japan, The 2nd International Sociohydrology Conference, 19-21 July 2025, Tokyo.
 - 2025 American Control Conference

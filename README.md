@@ -9,7 +9,10 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - WMO Weather Modification
   - Higuchi,
 - 水文・水資源学会
-  - 岡崎
+  - 岡崎淳史, 渡部哲史, 伊藤幸司, 田尻義了,古日記と大規模気候変動データセットを融合した日降水量復元可能性の検討, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
+  - 木野佳音, 岡崎淳史, Bong Hayoung, 芳村圭, 同位体気候モデルにおける総観規模現象表現の評価：南大洋の水蒸気同位体比表現の課題, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
+  - 渡部哲史, 藤岡悠一郎, 五三裕太, 内海信幸, 木村匡臣, 岡崎淳史, 農業用ため池の特徴に関する多角的な理解に向けて：水共生学における学際的アプローチの試み, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
+  - 竹島滉, 白石健太, 岡崎淳史, 露木義, 小槻峻司, 純データ駆動AI気象予報システムClimaX-LETKFの開発, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
 - International Symposium on Data Assimilation
   - Okazaki
 - International Sociohydrology Conference 

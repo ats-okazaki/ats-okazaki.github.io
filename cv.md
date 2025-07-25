@@ -33,7 +33,7 @@ rank: 1
 2. Hamamoto, S., Iizuka, Y., Aizawa, T., Kawakami, K., Matsumoto, M., Matoba, S., Bong, H., Yoshimura, K., **Okazaki, A.**, Uemura, R., Isotope-based Ice Core Age Scale Revealing Multi-Month Climate Variability Over the Past 150 Years in SE-Dome Greenland. *submitted to JGR-Atmos*
 3. Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R.P., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., **Okazaki, A.**, Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J., Worden, J., Good, S., Bailey, A., Schneider, M., Noël, S., Mandal, S., Bowman, K., Li, Y., and Schmidt, G.A. (2025) Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate. *submitted to JAMES*
 4. Shiraishi, K., Muto, Y., **Okazaki, A.**, Kotsuki, S., Wasserstein GAN-Based Precipitation Downscaling with Optimal Transport 
-for Enhancing Perceptual Realism. *submitted to GRL*
+for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/abs/2507.17798)
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

@@ -4,6 +4,11 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- CMIP Community Workshop 2026
+  - Bong, H. et al.,
+  - Cauquoin, A. et al.,
+  - Kino, K. et al.,
+  - Li, Y. et al.,
 - AGU25 Annual Meeting
   - Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R.P., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J., Worden, J., Good, S., Bailey, A., Schneider, M., Noël, S., Mandal, S., Bowman, K., Li, Y., and Schmidt, G.A., Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate, AGU25 Annual Meeting, 15-19 Dec 2025, New Orleans. 
 - WMO Weather Modification

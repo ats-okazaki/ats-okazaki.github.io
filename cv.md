@@ -88,6 +88,8 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
+- 2025-2028, IAEA CRP (F31007), *Estimation of Isotope Ratios in Convective-scale Precipitaions by Isotope-enabled Models and Isotopic Observations with Data Assimilation*, PI.
+- 2025-2027, ERCA Environment Research and Technology Development Fund, *Reducing uncertainties in climate projection with data assimilation as Emergent Constraints*, [2RA-2501](https://www.erca.go.jp/suishinhi/seika/db/pdf/kenkyu_gaiyou/2RA-2501.pdf), PI, 18,000,000JPY.
 - 2025-2027, JSPS Grant-in-Aid for Scientific Research (B), *Exploring new isotope hydrology with next-generation geostationary satellites*, [25K01329](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K01329/), PI, 14,400,000JPY.
 - 2024-2025, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), *Ultra-high spatiotemporal resolution climate reconstruction: Toward development of historical meteorology*, [24H00920](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PUBLICLY-24H00920/), PI, 7,200,000JPY.
 - 2024-2025, JST MIRAI Program, *Impact assessment of SAMRAI satellite observations on tropical cyclone forecastings*, Co-PI (PM: Naoya Tomii@JAXA), 5,200,000JPY.

@@ -40,7 +40,6 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 3. Cheng, J., Cauquoin, A., Yang, Y., **Okazaki, A.**, and Yoshimura, K., Contrasting Impacts of ENSO Evolution on the Interannual Variation of Precipitation Isotopes over the Tibetan Plateau, *Journal of Geophysical Research: Atmospheres*, 130, e2025JD0435842025, 2025. [JGR-A](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD043584)
 4. <span style='color: deeppink; font-style: italic'>Accepted</span> Kotsuki, S., Shiraishi, K., **Okazaki, A.**, Ensemble data assimilation to diagnose AI-based weather prediction model: A case with ClimaX version 0.3.1., *NPG*, 2025. [EGUsphere](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3102/)
 1. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Kotsuki, K., Bridging Data Assimilation and Control: Ensemble Model Predictive Control for High-Dimensional Nonlinear Systems, *Nonlin. Processes Geophys.*, 32, 293–307, 2025. [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-595/) [NPG](https://npg.copernicus.org/articles/32/293/2025/)
-2. Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, *ICCS2025*, LNCS 15903, 194-209, https://doi.org/10.1007/978-3-031-97626-1_14, 2025. [arXiv](https://arxiv.org/abs/2505.10843) [ICCS2025](https://link.springer.com/chapter/10.1007/978-3-031-97626-1_14)
 3. Kino, K., **Okazaki, A.**, Bong, H., Yoshimura, K., Assessing synoptic-scale variability in isotope-enabled climate models: challenges for water vapor isotopes over the Southern Ocean, *Hydrological Research Letters*, 19, 2, 112-119, https://doi.org/10.3178/hrl.24-00034, 2025. [HRL](https://www.jstage.jst.go.jp/article/hrl/19/2/19_112/_article)
 4. Otsuka, T., **Okazaki, A.**, Masaki, O., Kotsuki, S., Convex Optimization of Initial Perturbations toward Quantitative Weather Control, *SOLA*, 21, 158-166, https://doi.org/10.2151/sola.2025-020, 2025. [arXiv](https://arxiv.org/abs/2405.19546) [SOLA](https://www.jstage.jst.go.jp/article/sola/21/0/21_2025-020/_article/-char/en)
 5. Ishidoya, S., Sugawara, S., **Okazaki. A.**, First detection of variations in present day’s delta-18O of atmospheric O2 and its application to evaluate changes in oxygen, carbon, and water cycles., *Atmos. Chem. Phys.*, 25, 1965–1987, https://doi.org/10.5194/acp-25-1965-2025, 2025. [ACP](https://acp.copernicus.org/articles/25/1965/2025/) [Press](https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250225/pr20250225.html)
@@ -71,7 +70,10 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 1. **Okazaki, A.**, P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, *J. Meteor Soc. Japan*, 90(4), 509-524, 2012. [JMSJ](https://www.jstage.jst.go.jp/article/jmsj/90/4/90_2012-405/_article)
 1. Ozawa, T., Fujibayashi, M., **Okazaki, A.**, Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
-## Presentation (selected only)
+## Proceedings with review
+1. Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, *ICCS2025*, LNCS 15903, 194-209, https://doi.org/10.1007/978-3-031-97626-1_14, 2025. [arXiv](https://arxiv.org/abs/2505.10843) [ICCS2025](https://link.springer.com/chapter/10.1007/978-3-031-97626-1_14)
+
+## Presentations (selected only)
 1. Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
 1. Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>
 2. Okazaki, A., Kotsuki, S., Carrio, D., Yoshimura, K., Climate reconstruction with observation errors estimated by innovation statistics, JpGU Meeting 2023, Chiba, Japan, 21-26 May 2023. <font color='deeppink'><i>(Invited poster)</i></font>
@@ -88,6 +90,7 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
+## Ongoing Projects
 - 2025-2028, IAEA CRP (F31007), *Estimation of Isotope Ratios in Convective-scale Precipitaions by Isotope-enabled Models and Isotopic Observations with Data Assimilation*, PI.
 - 2025-2027, ERCA Environment Research and Technology Development Fund, *Reducing uncertainties in climate projection with data assimilation as Emergent Constraints*, [2RA-2501](https://www.erca.go.jp/suishinhi/seika/db/pdf/kenkyu_gaiyou/2RA-2501.pdf), PI, 18,000,000JPY.
 - 2025-2027, JSPS Grant-in-Aid for Scientific Research (B), *Exploring new isotope hydrology with next-generation geostationary satellites*, [25K01329](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K01329/), PI, 14,400,000JPY.
@@ -97,6 +100,8 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 - 2023-2024, MLIT Kasensabo-Gijutsu, *Basin-scale impact-based risk assessment of the climate change*, PI, 4,000,000JPY.
 - 2023, JAXA contract resesarch (PI), 500,000JPY.
 - 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) , *Generation of Millennium Atmospheric Reanalysis Product*, [22H04938](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04938/), Co-PI, 37,700,000JPY.
+
+## Past Projects
 - 2022-2024, JST Moonshot Goal 8, *Quantifying Weather Controllability and Mitigatable Flood Damage Based on Ensemble Weather Forecast*, [JPMJMS2284](https://www.jst.go.jp/moonshot/en/program/goal8/84_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 23,400,000JPY. 
 - 2022-2024, JSPS Grant-in-Aid for Early-Career Scientists, *Development of Stable Water Isotopes Dataset for Atmospheric Science by Fusing Model Simulations and Observations*, [22K14095](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14095/), PI, 4,680,000JPY.
 - 2022-2024, JAXA 3rd Research Announcement on the Earth Observations: EO-RA3, *Advances and applications of satellite data assimilation of clouds, precipitation, and the ocean*, CI (PI: Takemasa Miyoshi@RIKEN R-CCS).

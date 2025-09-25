@@ -8,17 +8,17 @@ rank: 2
   * Aono, Kenji (Postdoc, Jun 2024-)
   * Khan, Muhammad Abid (Postdoc, Nov 2024-)
   * Kurosawa, Kenta (Postdoc, Jan 2024-)
-  * Tiwari, Gaurav (Postdoc, Mar 2023-)
   * Ichimiya, Tomoko (Technical Assistant, Feb 2024-)
   * Suzumura, Tomoe  (Technical Assistant, May 2024-)
   * Takahashi, Mahiro (M2)
-  * Saito, Yuki (M1)
-  * Matsukura, Yuki (B3)
-  * Otaki, Haruto (B3)
+  * Saito, Yuki (M2)
+  * Matsukura, Yuki (B4)
+  * Otaki, Haruto (B4)
 
 
 # Alumni 
 ## @Chiba University
+  * Tiwari, Gaurav (Postdoc, Mar 2023-Apr 2025)
   * Aono, Kenji (Technical Assistant, Jan 2024-??? 2024)
 
 ## @Hirosaki University

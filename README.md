@@ -19,7 +19,11 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - 渡部哲史, 藤岡悠一郎, 五三裕太, 内海信幸, 木村匡臣, 岡崎淳史, 農業用ため池の特徴に関する多角的な理解に向けて：水共生学における学際的アプローチの試み, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
   - 竹島滉, 白石健太, 岡崎淳史, 露木義, 小槻峻司, 純データ駆動AI気象予報システムClimaX-LETKFの開発, 水文・水資源学会 2025年度研究発表会, 17-19 Sep 2025, 秋田.
 - International Symposium on Data Assimilation
-  - Okazaki
+  - Okazaki, A., Ito, K., Tajiri, Y., Watanabe, S., Ultra-High Spatiotemporal Resolution Weather Reconstruction with Particle Filter, 11th International Symposium on Data Assimilation, 29 Sep-3 Oct 2025, Melbourne.
+  - Shiojiri, D., Muto, Y., Okazaki, A., Kotsuki, S., Estimating precipitation fields from gauge observations using analog offline ensemble data assimilation, 11th International Symposium on Data Assimilation, 29 Sep-3 Oct 2025, Melbourne.
+  - Kawasaki, F., Okazaki, A., Kotsuki, S., Exploring Ultra Rapid Data Assimilation with the Lorenz 96 Model, 11th International Symposium on Data Assimilation, 29 Sep-3 Oct 2025, Melbourne.
+  - Takeshima, A., Shiraishi, K., Okazaki, A., Tsuyuki, T., Kotsuki, S., Assimilating PREPBUFR observations to artificial intelligence-based data assimilation system ClimaX-LETKF, 11th International Symposium on Data Assimilation, 29 Sep-3 Oct 2025, Melbourne.
+  - Kotsuki, S., Takeshima, A., Shiraishi, K., Okazaki, A., Implementing Hybrid Background Error Covariance into the LETKF for an AI-based Weather Prediction Model ClimaX, 11th International Symposium on Data Assimilation, 29 Sep-3 Oct 2025, Melbourne.
 - International Sociohydrology Conference 
   - Watanabe, M., et al., Communicating Ensemble Flood Forecasts with Municipal Officials: A Case Study in Aomori, Japan, The 2nd International Sociohydrology Conference, 19-21 July 2025, Tokyo.
 - 2025 American Control Conference

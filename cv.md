@@ -147,8 +147,8 @@ Quarterly Journal of the Royal Meteorological Society (1)
 Tellus-A (1)
 
 ## Editorial board
-- Nov. 2024 -: Journal of Japan Society of Hydrology and Water Resources
 - Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources
 
 ## Committee member
-- May 2025-: Japan Society of Civil Engineers, Committee on Hydroscience and Hydraulic Engineering 
+- May 2025-: Japan Society of Civil Engineers, Committee on Hydroscience and Hydraulic Engineering
+- Nov. 2024 -: Japan Society of Hydrology and Water Resources, Committee on Information System

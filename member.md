@@ -14,6 +14,8 @@ rank: 2
   * Saito, Yuki (M2)
   * Matsukura, Yuki (B4)
   * Otaki, Haruto (B4)
+  * Hattori, Yuka (B3)
+  * Manabe, Shogo (B3)
 
 
 # Alumni 

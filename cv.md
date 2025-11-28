@@ -33,6 +33,7 @@ rank: 1
 3. Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R.P., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., **Okazaki, A.**, Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J., Worden, J., Good, S., Bailey, A., Schneider, M., Noël, S., Mandal, S., Bowman, K., Li, Y., and Schmidt, G.A. (2025) Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate. *submitted to JGR-Atmos* [ESSOA](https://essopenarchive.org/users/852485/articles/1317633-water-isotope-model-intercomparison-project-wisomip-present-day-climate?commit=fb9b14830f0bedbe26ef77a70c2a8b0d6f41e1aa)
 4. Shiraishi, K., Muto, Y., **Okazaki, A.**, Kotsuki, S., Wasserstein GAN-Based Precipitation Downscaling with Optimal Transport 
 for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/abs/2507.17798)
+1. Higuchi, Y., Nagai, R., Bai, Y., **Okazaki, A.**, Wakamiya, N., Ogura, M., Development and Evaluation of a Black-Box Optimization Framework for Weather-Intervention Design. *submitted to JCS*
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print

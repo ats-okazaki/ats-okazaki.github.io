@@ -73,7 +73,9 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 1. Ozawa, T., Fujibayashi, M., **Okazaki, A.**, Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Proceedings with review
-1. Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, *ICCS2025*, LNCS 15903, 194-209, https://doi.org/10.1007/978-3-031-97626-1_14, 2025. [arXiv](https://arxiv.org/abs/2505.10843) [ICCS2025](https://link.springer.com/chapter/10.1007/978-3-031-97626-1_14)
+1. Z. Zhang, Y. Susuki, **A. Okazaki**, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, SICE Festival 2025 with Annual Conference, Thailand, September 2025.
+2. Z. Zhang, Y. Susuki, **A. Okazaki**, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, International Symposium on Nonlinear Theory and its Applications, Japan, October 2025.
+3. Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, *ICCS2025*, LNCS 15903, 194-209, https://doi.org/10.1007/978-3-031-97626-1_14, 2025. [arXiv](https://arxiv.org/abs/2505.10843) [ICCS2025](https://link.springer.com/chapter/10.1007/978-3-031-97626-1_14)
 
 ## Presentations (selected only)
 1. Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <span style='color: deeppink; font-style: italic'>(Invited)</span>

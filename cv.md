@@ -26,7 +26,7 @@ rank: 1
 "†" indicates my advisee's work 
 ### Submitted/In revision
 1. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Kotsuki, S., Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model, *submitted to QJRMS* [arXiv](https://arxiv.org/abs/2511.12620)
-2. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to SOLA*
+2. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to ASL* [arXiv](https://arxiv.org/abs/2512.14444)
 1. Li, Y., Cauquoin, A., **Okazaki, A.**, Yoshimura, K., Improved response of δ<sup>18</sup>Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, *submitted to JAMES*
 1. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Tsuyuki, T., Kotsuki, S., Model Predictive Control with Foreseeing Horizon Designed for Mitigating Extreme Events of Chaotic Dynamical Systems. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1785/)
 2. Hamamoto, S., Iizuka, Y., Aizawa, T., Kawakami, K., Matsumoto, M., Matoba, S., Bong, H., Yoshimura, K., **Okazaki, A.**, Uemura, R., Isotope-based Ice Core Age Scale Revealing Multi-Month Climate Variability Over the Past 150 Years in SE-Dome Greenland. *submitted to JGR-Atmos*

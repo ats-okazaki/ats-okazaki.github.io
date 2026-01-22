@@ -4,11 +4,17 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
+- AOGS
+  - Namegai, T. et al.
+  - Kino, K., Okazaki, A., Bong, H., Yoshimura, K., Event-scale water vapor isotope variability over the Southern Ocean; implications for paleo proxy interpretation, AOGS, 2-6 Aug 2026, Fukuoka.
+- JpGU
+  - Miyoshi, T. et al., 
 - CMIP Community Workshop 2026
   - Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J.M., Worden, J.R., Good, S.P., Raudzens Bailey, A., Schneider, M., Noel, S., Mandal, S., Bowman, K.W., Li, Y., and Schmidt, G.A. (2026). Exploring the Role of Water Isotopes in CMIP/PMIP: Insights from the Water Isotope Model Intercomparison Project (WisoMIP), CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.
   - Cauquoin, A., Li, Y., Okazaki, A., Sun, Y., Werner, M., Yoshimura, K., Modeled response of isotope content in polar precipitation in abrupt-127k experiment using isotope-enabled fully coupled models, CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.
   - Kino, K., Okazaki, A., Bong, H., Oki, T., Yoshimura, K., Atmospheric circulation events over the Antarctic and Southern Ocean as key drivers of inland Antarctic ice core isotopes: insights from an isotope-enabled GCM, CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.
   - Li, Y., Cauquoin, A., Okazaki, A., Nitta, T., Yoshimura, K., Improve response of d18Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso and a purturbed-parameter ensemble in isotopic model, CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.
+  - Cheng, J. et al.
 - AGU25 Annual Meeting
   - Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R.P., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J., Worden, J., Good, S., Bailey, A., Schneider, M., Noël, S., Mandal, S., Bowman, K., Li, Y., and Schmidt, G.A., Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate, AGU25 Annual Meeting, 15-19 Dec 2025, New Orleans. 
 - WMO Weather Modification

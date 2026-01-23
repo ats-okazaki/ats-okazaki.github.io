@@ -4,10 +4,11 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
-- AOGS
+- AOGS 2026
   - Namegai, T. et al.
   - Kino, K., Okazaki, A., Bong, H., Yoshimura, K., Event-scale water vapor isotope variability over the Southern Ocean; implications for paleo proxy interpretation, AOGS, 2-6 Aug 2026, Fukuoka.
-- JpGU
+  - Ohtaki, H., Kurosawa, K., Okazaki, A., Optimization of Control Sites with Simplified Weather Models -a Case Study with Lorenz-96 and SPEEDY-, AOGS, 2-6 Aug 2026, Fukuoka.
+- JpGU 2026
   - Miyoshi, T. et al., 
 - CMIP Community Workshop 2026
   - Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J.M., Worden, J.R., Good, S.P., Raudzens Bailey, A., Schneider, M., Noel, S., Mandal, S., Bowman, K.W., Li, Y., and Schmidt, G.A. (2026). Exploring the Role of Water Isotopes in CMIP/PMIP: Insights from the Water Isotope Model Intercomparison Project (WisoMIP), CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.

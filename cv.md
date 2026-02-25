@@ -106,7 +106,7 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 - 2023-2026, JST Moonshot Goal 8, *Artificial generation of upstream maritime heavy rains to govern intense-rain-induced disasters over land*, [JPMJMS2389-4-1](https://www.jst.go.jp/moonshot/en/program/goal8/89_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 91,500,000JPY.
 - 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) , *Generation of Millennium Atmospheric Reanalysis Product*, [22H04938](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04938/), Co-PI, 37,700,000JPY.
 
-Full list is available at [HERE](https://github.com/ats-okazaki/ats-okazaki.github.io/blob/master/projects)
+Full list is available at [HERE](https://ats-okazaki.github.io/projects)
 
 # Computer Resources
 - 2026: Fugaku, General Access, *Feasibility study of weather control with control position optimization*, hp260182, 4,252,500 NH.

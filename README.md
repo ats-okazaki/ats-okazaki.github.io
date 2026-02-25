@@ -5,11 +5,17 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 
 # NEWS / Upcoming Talks
 - AOGS 2026
-  - Namegai, T. et al.
+  - Namegai, T., Yoshimura, K., Okazaki, A., Toride, K., Correcting Isotope-Enabled AGCM Output through Data Assimilation of GNIP Monthly Precipitation Isotope Data, AOGS, 2-6 Aug 2026, Fukuoka.
+  - Cheng, J., Cauquoin, A., Okazaki, A., Yoshimura, K., Evaluating Isotopic Proxies Assimilation in Past Climate Reconstructions with Different Forward Models, AOGS, 2-6 Aug 2026, Fukuoka.
   - Kino, K., Okazaki, A., Bong, H., Yoshimura, K., Event-scale water vapor isotope variability over the Southern Ocean; implications for paleo proxy interpretation, AOGS, 2-6 Aug 2026, Fukuoka.
   - Ohtaki, H., Kurosawa, K., Okazaki, A., Optimization of Control Sites with Simplified Weather Models -a Case Study with Lorenz-96 and SPEEDY-, AOGS, 2-6 Aug 2026, Fukuoka.
+  - Yamada, M., Sugawara, Y., Okazaki, A., Tsurushima, D., Furukawa, H., Saito, R., Chouno, C., Yamada, S., Hori, T., Quantification of Changes in Inundation and Economic Loss Due to Weather Intervention Using a 100-member Coupled Ensemble: 2015 Kanto-Tohoku Heavy Rainfall, Japan, AOGS, 2-6 Aug 2026, Fukuoka.
+  - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Improved response of δ18Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, AOGS, 2-6 Aug 2026, Fukuoka.
 - JpGU 2026
-  - Miyoshi, T. et al., 
+  - Miyoshi, T. et al.,
+- EGU 2026
+  - Cheng, J., A New Dataset of Global Climate and Hydroclimate Reconstructions over the Common Era
+  - Li, Y., Constraining Future Temperature Projections using a Localized Spatiotemporal Emergent Constraint Approach
 - CMIP Community Workshop 2026
   - Bong, H., LeGrande, A.N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H.C., Casado, M., Wahl, S., Nusbaumer, J.M., Worden, J.R., Good, S.P., Raudzens Bailey, A., Schneider, M., Noel, S., Mandal, S., Bowman, K.W., Li, Y., and Schmidt, G.A. (2026). Exploring the Role of Water Isotopes in CMIP/PMIP: Insights from the Water Isotope Model Intercomparison Project (WisoMIP), CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.
   - Cauquoin, A., Li, Y., Okazaki, A., Sun, Y., Werner, M., Yoshimura, K., Modeled response of isotope content in polar precipitation in abrupt-127k experiment using isotope-enabled fully coupled models, CMIP Community Workshop 2026, 9-13 Mar 2026, Kyoto.

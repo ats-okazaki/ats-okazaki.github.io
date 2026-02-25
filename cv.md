@@ -95,7 +95,6 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
-## Ongoing Projects
 - 2025-2028, IAEA CRP (F31008), *Estimation of Isotope Ratios in Convective-scale Precipitaions by Isotope-enabled Models and Isotopic Observations with Data Assimilation*, PI.
 - 2025-2027, ERCA Environment Research and Technology Development Fund, *Reducing uncertainties in climate projection with data assimilation as Emergent Constraints*, [2RA-2501](https://www.erca.go.jp/suishinhi/seika/db/pdf/kenkyu_gaiyou/2RA-2501.pdf), PI, 18,000,000JPY.
 - 2025-2029, JSPS Grant-in-Aid for Scientific Research (A), *Transforming Weather Prediction with Deep Learning and Quantum Computing*, [25H00752](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25H00752/), Co-PI (PI: S. Kotsuki@Chiba Univ.), 1,250,000JPY.

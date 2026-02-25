@@ -107,19 +107,7 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 - 2023-2026, JST Moonshot Goal 8, *Artificial generation of upstream maritime heavy rains to govern intense-rain-induced disasters over land*, [JPMJMS2389-4-1](https://www.jst.go.jp/moonshot/en/program/goal8/89_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 91,500,000JPY.
 - 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) , *Generation of Millennium Atmospheric Reanalysis Product*, [22H04938](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04938/), Co-PI, 37,700,000JPY.
 
-## Past Projects
-- 2023-2024, MLIT Kasensabo-Gijutsu, *Basin-scale impact-based risk assessment of the climate change*, PI, 4,000,000JPY.
-- 2023, JAXA contract research (PI), 500,000JPY.
-- 2022-2024, JST Moonshot Goal 8, *Quantifying Weather Controllability and Mitigatable Flood Damage Based on Ensemble Weather Forecast*, [JPMJMS2284](https://www.jst.go.jp/moonshot/en/program/goal8/84_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 23,400,000JPY. 
-- 2022-2024, JSPS Grant-in-Aid for Early-Career Scientists, *Development of Stable Water Isotopes Dataset for Atmospheric Science by Fusing Model Simulations and Observations*, [22K14095](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14095/), PI, 4,680,000JPY.
-- 2022-2024, JAXA 3rd Research Announcement on the Earth Observations: EO-RA3, *Advances and applications of satellite data assimilation of clouds, precipitation, and the ocean*, CI (PI: Takemasa Miyoshi@RIKEN R-CCS).
-- 2022-2023, JSPS Grant-in-Aid for Transformative Research Areas (A)(Publicly Offered Research), *High-resolution Climate Reconstruction Toward Expansion of Historical Socio-Hydrology in Japan*, [22H05228](https://kaken.nii.ac.jp/grant/KAKENHI-PUBLICLY-22H05228/), PI, 3,770,000JPY.
-- 2021-2024, JSPS Grant-in-Aid for Scientific Research (A), *Exploring Real-time Rainfall and Flood Predictions in Fugaku Era with the State-of-the-art Data Science*, [21H04571](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04571/), Co-PI (PI: Shunji Kotsuki@Chiba Univ.), 4,420,000 JPY.
-- 2021, Start-Up Grant for Young Scientists, Hirosaki University, PI, 930,000 JPY.
-- 2021, Interdisciplinary Collaborative Research Grant for Young Scientists, Hirosaki University, Co-PI PI: Tomoya Takano@Hirosaki Univ.), 750,000 JPY.
-- 2018-2020, Grant-in-Aid for RIKEN Special Postdoctoral Researcher, PI, 3,000,000 JPY
-- 2017-2021, JSPS Grant-in-Aid for Young Scientists (B), *Development of a data assimilation method toward high-accuracy paleoclimate reconstruction*, [17K14397](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K14397/), PI, 3,120,000 JPY.
-- 2013-2014, Grant-in-Aid for JSPS Fellows, [13J09182](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-13J09182/), PI, 2,000,000 JPY.
+Full list is available at [HERE](https://github.com/ats-okazaki/ats-okazaki.github.io/blob/master/projects)
 
 # Computer Resources
 - 2026: Fugaku, General Access, *Feasibility study of weather control with control position optimization*, hp260182, 4,252,500 NH.

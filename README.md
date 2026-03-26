@@ -1,7 +1,7 @@
 # ABOUT
 Atsushi Okazaki is an Associate Professor at the Institute of Advanced Academic Research (IAAR) / Center for Environmental Remote Sensing (CEReS), Chiba University, Japan.
 His research interests are in stable water isotope modeling and data assimilation for hydrology, weather prediction, and paleoclimate.  
-The full CV is available [HERE](https://ats-okazaki.github.io/cv)
+The full CV is available [HERE](https://ats-okazaki.github.io/cv)  
 
 # NEWS / Upcoming Talks
 - AOGS 2026

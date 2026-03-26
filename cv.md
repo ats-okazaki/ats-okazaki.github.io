@@ -94,7 +94,7 @@ for Enhancing Perceptual Realism. *submitted to GRL* [arXiv](https://arxiv.org/a
 1. 2017 May, Yoshimura, K., Okazaki, A., and Neluwala, P., Challenges for millennium reanalysis, JpGU-AGU Joint Meeting 2017, Makuhari, Japan, 20-25 May, 2017. <font color='deeppink'><i>(Invited)</i></font>
 1. 2016 Oct., Okazaki, A., Basics of data assimilation and its application to paleoclimate, Kongju National University, Gongju, Korea, 17-21 Oct., 2016. <font color='deeppink'><i>(Invited)</i></font>
 
-Full list is available at [HERE](https://ats-okazaki.github.io/presentation)  
+Full list is available [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
 - 2025-2028, IAEA CRP (F31008), *Estimation of Isotope Ratios in Convective-scale Precipitaions by Isotope-enabled Models and Isotopic Observations with Data Assimilation*, PI.
@@ -108,7 +108,7 @@ Full list is available at [HERE](https://ats-okazaki.github.io/presentation)
 - 2023-2026, JST Moonshot Goal 8, *Artificial generation of upstream maritime heavy rains to govern intense-rain-induced disasters over land*, [JPMJMS2389-4-1](https://www.jst.go.jp/moonshot/en/program/goal8/89_kotsuki.html), PI (PM: S. Kotsuki@Chiba Univ.), 91,500,000JPY.
 - 2022-2026, JSPS Grant-in-Aid for Scientific Research (S) , *Generation of Millennium Atmospheric Reanalysis Product*, [22H04938](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04938/), Co-PI, 37,700,000JPY.
 
-Full list is available at [HERE](https://ats-okazaki.github.io/projects)
+Full list is available [HERE](https://ats-okazaki.github.io/projects)
 
 # Computer Resources
 - 2026: Fugaku, General Access, *Feasibility study of weather control with control position optimization*, hp260182, 4,252,500 NH.

@@ -70,6 +70,9 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Higuchi, Y., Nagai, R., Okazaki, A., Ogura, M., Evaluating the Effectiveness of Black Box Optimization Methods toward Weather Control, 25th International Conference on Computational Science, 7-9 Jul. 2025, Singapore.
 - EGU General Assembly 2025
   - Mitsui, T., Kotsuki, S., Fujiwara, F., Okazaki, A., Tokuda, K., Mitigating extreme events through multi-Scenario ensemble forecasts and local interventions in the Lorenz 96 model, EGU General Assembly 2025, Vienna, Austria, 27 April-2 May 2025.
+- A press release about an isotope-enabled atmosphere-ocean coupled model, MIROC6-iso, was issued (04/13/2026)
+  - [ChibaU](https://www.chiba-u.ac.jp/news/research-collab/miroc6-iso.html)
+  - [ChuoU](https://www.chuo-u.ac.jp/aboutus/communication/press/2026/04/85323/) 
 - A press release about an water isotope model intercomparison project (WisoMIP) was issued (02/12/2026)
   - [ChibaU](https://www.chiba-u.ac.jp/news/research-collab/_wisomip.html)
   - [UT](https://www.iis.u-tokyo.ac.jp/ja/news/4990/)    

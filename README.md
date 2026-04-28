@@ -13,6 +13,15 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Improved response of δ18Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, AOGS, 2-6 Aug 2026, Fukuoka.
 - JpGU 2026
   - Miyoshi, T. et al.,
+  - Cauquoin, A., Gusyev, M. A., Bong, H., Okazaki, A., Yoshimura, K., Modeling of tritium in precipitation and water vapor with an atmospheric general circulation model and its use as a hydrological tracer, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - Higuchi, Y., Bai, Y., Okazaki, A., Yasunaga, K., Ogura, M., Sequential Weather Intervention Design Using Model Predictive Control and Black-Box Optimization, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - Kaneko, R., Okazaki, A., Kotsuki, S., Downscaling emulator with Classifier Free Diffusion Guidance Model, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - Mitsui, T., Okazaki, A., Kotsuki, S., Fujiwara, N., Tokuda, K., The real butterfly effect in control simulation experiments: a case study of the 2015 Kanto-Tohoku heavy rainfall, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - 大瀧晴登, 黒澤賢太, 岡崎淳史, アンサンブル感度に基づく制御位置の最適化, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - 鈴村巴, 岡崎淳史, 体感表現を利用した古気候復元の検討, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - 樋口篤志, 山本雄平, 市井和仁, 入江仁士, 小槻峻司, 齋藤尚子, 楊偉, 岡﨑淳史, 豊嶋紘一, 金子凌, 千葉大学環境リモートセンシング研究センターによるVL講習会の歩み, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - 江口菜穂, 笠井康子, 今須良一, 芳村圭, 取出欣也, 岡本幸三, 齋藤尚子, 花田俊也, 鈴木順子, 齊藤雅典, 岡崎淳史, 八田真児, 小型衛星コンステレーションによる水蒸気・同位体・氷雲・放射収支の観測ミッション, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - 三好建正, 大石俊, 富田浩文, 大塚成徳, Taylor James, Goodliff Michael, 佐藤正樹, 本田匠, 松岸修平, 吉岡真由美, 小槻峻司, 岡崎淳史, 岡本幸三, 幾田泰酵, 寺崎康児, 八代尚, 金丸佳矢, 山崎哲, 気象・海洋・陸面予測を革新する高頻度衛星観測システムの設計事前評価プラットフォーム, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
 - EGU 2026
   - Cheng, J., A New Dataset of Global Climate and Hydroclimate Reconstructions over the Common Era
   - Li, Y., Constraining Future Temperature Projections using a Localized Spatiotemporal Emergent Constraint Approach

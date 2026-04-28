@@ -12,8 +12,7 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - Yamada, M., Sugawara, Y., Okazaki, A., Tsurushima, D., Furukawa, H., Saito, R., Chouno, C., Yamada, S., Hori, T., Quantification of Changes in Inundation and Economic Loss Due to Weather Intervention Using a 100-member Coupled Ensemble: 2015 Kanto-Tohoku Heavy Rainfall, Japan, AOGS, 2-6 Aug 2026, Fukuoka.
   - Li, Y., Cauquoin, A., Okazaki, A., Yoshimura, K., Improved response of δ18Osw in the Pacific Ocean to atmosphere-ocean interaction and ENSO using the isotope-enabled Fully Coupled Model MIROC6-iso, AOGS, 2-6 Aug 2026, Fukuoka.
 - JpGU 2026
-  - Miyoshi, T. et al.,
-  - Cauquoin, A., Gusyev, M. A., Bong, H., Okazaki, A., Yoshimura, K., Modeling of tritium in precipitation and water vapor with an atmospheric general circulation model and its use as a hydrological tracer, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
+  - Cauquoin, A., Gusyev, M. A., Bong, H., Okazaki, A., Yoshimura, K., Modeling of tritium in precipitation and water vapor with an atmospheric general circulation model and its use as a hydrological tracer, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba. <span style='color: deeppink; font-style: italic'>(Invited)</span>
   - Higuchi, Y., Bai, Y., Okazaki, A., Yasunaga, K., Ogura, M., Sequential Weather Intervention Design Using Model Predictive Control and Black-Box Optimization, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
   - Kaneko, R., Okazaki, A., Kotsuki, S., Downscaling emulator with Classifier Free Diffusion Guidance Model, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
   - Mitsui, T., Okazaki, A., Kotsuki, S., Fujiwara, N., Tokuda, K., The real butterfly effect in control simulation experiments: a case study of the 2015 Kanto-Tohoku heavy rainfall, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.

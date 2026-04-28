@@ -24,6 +24,9 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - EGU 2026
   - Cheng, J., A New Dataset of Global Climate and Hydroclimate Reconstructions over the Common Era
   - Li, Y., Constraining Future Temperature Projections using a Localized Spatiotemporal Emergent Constraint Approach
+- Selected as JST FOREST researcher (26/04/2026)
+  - [ChibaU](https://imo.chiba-u.jp/news/news/post_260427.html)
+  - [JST](https://www.jst.go.jp/pr/info/info1845/index.html)
 - A press release about an isotope-enabled atmosphere-ocean coupled model, MIROC6-iso, was issued (04/13/2026)
   - [ChibaU](https://www.chiba-u.ac.jp/news/research-collab/miroc6-iso.html)
   - [ChuoU](https://www.chuo-u.ac.jp/aboutus/communication/press/2026/04/85323/) 

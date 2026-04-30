@@ -12,6 +12,11 @@ section {
   max-width: 1000px;
 }
 
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: 95%;
+  }
+
 h1, h2, h3 {
   margin-top: 1em;
   margin-bottom: 0.67em;

@@ -22,8 +22,8 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - 江口菜穂, 笠井康子, 今須良一, 芳村圭, 取出欣也, 岡本幸三, 齋藤尚子, 花田俊也, 鈴木順子, 齊藤雅典, 岡崎淳史, 八田真児, 小型衛星コンステレーションによる水蒸気・同位体・氷雲・放射収支の観測ミッション, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
   - 三好建正, 大石俊, 富田浩文, 大塚成徳, Taylor James, Goodliff Michael, 佐藤正樹, 本田匠, 松岸修平, 吉岡真由美, 小槻峻司, 岡崎淳史, 岡本幸三, 幾田泰酵, 寺崎康児, 八代尚, 金丸佳矢, 山崎哲, 気象・海洋・陸面予測を革新する高頻度衛星観測システムの設計事前評価プラットフォーム, JpGU-AGU Joint Meeting 2026, 24-29 May 2026, Chiba.
 - EGU 2026
-  - Cheng, J., A New Dataset of Global Climate and Hydroclimate Reconstructions over the Common Era
-  - Li, Y., Constraining Future Temperature Projections using a Localized Spatiotemporal Emergent Constraint Approach
+  - Cheng, J., Cauquoin, A., Okazaki, A., Truax, O., Sinha, A., Li, H., Li, S., Yoshimura, K., A New Dataset of Global Climate and Hydroclimate Reconstructions over the Common Era, EGU26 General Assembly, 3-8 May 2026, Vienna, Austria.
+  - Li, Y., Okazaki, A., Nitta, T., Cauquoin, A., Yoshimura, K., Constraining Future Temperature Projections using a Localized Spatiotemporal Emergent Constraint Approach, EGU26 General Assembly, 3-8 May 2026, Vienna, Austria.
 - Selected as JST FOREST researcher (26/04/2026)
   - [ChibaU](https://imo.chiba-u.jp/news/news/post_260427.html)
   - [JST](https://www.jst.go.jp/pr/info/info1845/index.html)

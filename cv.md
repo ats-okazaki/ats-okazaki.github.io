@@ -25,7 +25,7 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-1. <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *submitted to JJSCE**
+1. <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *submitted to JJSCE*
 2. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Yasunaga, K., Hamada, A., Kotsuki, S., Ensemble Predictions Enable Robust and Effective Intervention Design Under Forecast Uncertainty in Realistic Weather Scenarios, *submitted to npj Climate and Atmosphere*
 3. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Kotsuki, S., Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model, *submitted to QJRMS* [arXiv](https://arxiv.org/abs/2511.12620)
 4. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to ASL* [arXiv](https://arxiv.org/abs/2512.14444)

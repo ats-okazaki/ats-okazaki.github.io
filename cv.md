@@ -25,10 +25,11 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-1. <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *submitted to JJSCE*
-2. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Yasunaga, K., Hamada, A., Kotsuki, S., Ensemble Predictions Enable Robust and Effective Intervention Design Under Forecast Uncertainty in Realistic Weather Scenarios, *submitted to npj Climate and Atmosphere*
-3. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Kotsuki, S., Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model, *submitted to QJRMS* [arXiv](https://arxiv.org/abs/2511.12620)
-4. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to ASL* [arXiv](https://arxiv.org/abs/2512.14444)
+1. <sup>†</sup>Ohtaki, H., Kurosawa, K., **Okazaki, A.**, Optimization of Control Sites in Weather Control based on Ensemble Sensitivity -A Case Study with Lorenz-96 Model-, *submitted to JJSCE*
+2. <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *submitted to JJSCE*
+3. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Yasunaga, K., Hamada, A., Kotsuki, S., Ensemble Predictions Enable Robust and Effective Intervention Design Under Forecast Uncertainty in Realistic Weather Scenarios, *submitted to npj Climate and Atmosphere*
+4. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Kotsuki, S., Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model, *submitted to QJRMS* [arXiv](https://arxiv.org/abs/2511.12620)
+5. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to ASL* [arXiv](https://arxiv.org/abs/2512.14444)
 1. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Tsuyuki, T., Kotsuki, S., Model Predictive Control with Foreseeing Horizon Designed for Mitigating Extreme Events of Chaotic Dynamical Systems. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1785/)
 2. Hamamoto, S., Iizuka, Y., Aizawa, T., Kawakami, K., Matsumoto, M., Matoba, S., Bong, H., Yoshimura, K., **Okazaki, A.**, Uemura, R., Isotope-based Ice Core Age Scale Demonstrating Multi-Month Climate Variability Over the Past 150 Years in SE-Dome Greenland. *submitted to JGR-Atmos*
 1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*

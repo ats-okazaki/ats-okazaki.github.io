@@ -121,6 +121,8 @@ Full list is available [HERE](https://ats-okazaki.github.io/projects)
 - 2022-: Wisteria, Cooperative Research Activities of Collaborative Use of Computing Facility of the Atmosphere and Ocean Research Institute, the University of Tokyo, *Study on paleoclimate reconstruction with data assimilation*, 16,000 NH.
 
 # Awards & Honors:
+- May 2026, 4th Best Paper Award, Japan Society of Atmospheric Chemistry
+- Mar 2026, Outstanding Discussion Award, The 70th Conference on Hydraulic Engineering, Japan Society of Civil Engineers
 - Oct 2022, Hirosaki University Outstanding Young Thesis Award
 - Apr 2018, Selected for RIKEN Special Postdoctoral Researcher (SPDR)
 - Apr 2013, Selected for JSPS Research Fellow (DC2)
@@ -151,5 +153,6 @@ Tellus-A (1)
 - Nov. 2018 - Oct. 2022: Journal of Japan Society of Hydrology and Water Resources
 
 ## Committee member
-- May 2025-: Japan Society of Civil Engineers, Committee on Hydroscience and Hydraulic Engineering
-- Nov. 2024 -: Japan Society of Hydrology and Water Resources, Committee on Information System
+- Jan 2026 - Dec 2029, PAGES Working group, Climate Field Reconstructions and Methods Intercomparison [CFRAME](https://pastglobalchanges.org/cframe), Steering Committee.
+- May 2025 -: Japan Society of Civil Engineers, Committee on Hydroscience and Hydraulic Engineering
+- Nov 2024 -: Japan Society of Hydrology and Water Resources, Committee on Information Systems

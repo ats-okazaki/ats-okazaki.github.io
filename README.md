@@ -12,6 +12,7 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
   - 大瀧晴登, 黒澤賢太, 岡﨑淳史, アンサンブル感度に基づく制御位置の最適化, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.
   - 眞辺将吾, 岡﨑淳史, 古日記に記される主観的情報を使用した古天気復元手法の開発, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.
   - 木野佳音, 岡崎淳史, Hayoung Bong, 芳村圭, 総観規模大気循環に伴う南大洋水蒸気同位体比変動：全球水同位体-気候モデルの抱える課題, 2026年10月26-30日, 京都.
+  - 河﨑文俊, 黒澤賢太, 岡﨑淳史, 小槻峻司, Ultra Rapid Data Assimilationを用いたモデル再積分を必要としない高頻度予測更新, 2026年10月26-30日, 京都.
   - 樋口, 
 - AOGS 2026
   - Namegai, T., Yoshimura, K., Okazaki, A., Toride, K., Correcting Isotope-Enabled AGCM Output through Data Assimilation of GNIP Monthly Precipitation Isotope Data, AOGS, 2-6 Aug 2026, Fukuoka.

@@ -1,9 +1,11 @@
-# ABOUT
+<img width="468" height="53" alt="image" src="https://github.com/user-attachments/assets/bd81a265-655c-41f7-a802-0c1ca7869ad3" /># ABOUT
 Atsushi Okazaki is an Associate Professor at the Institute of Advanced Academic Research (IAAR) / Center for Environmental Remote Sensing (CEReS), Chiba University, Japan.
 His research interests are in stable water isotope modeling and data assimilation for hydrology, weather prediction, and paleoclimate.  
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)  
 
 # NEWS / Upcoming Talks
+- AGU26 Annual Meeting
+  - Okazaki, A. and Sato, Y., Development of stable water isotope-enabled large eddy resolving model SCALE, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
 - 日本気象学会2026年度秋季大会
   - 岡崎淳史, 佐藤陽祐, 領域気象モデルSCALE-RMへの水同位体導入, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.
   - 黒澤賢太, 岡﨑淳史, データ同化を用いたモデル誤差ダイナミクスの逐次スパース同定, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.

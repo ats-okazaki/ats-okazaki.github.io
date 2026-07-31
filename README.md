@@ -4,7 +4,10 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)  
 
 # NEWS / Upcoming Talks
+- AMS
+  - Kurosawa, K. and Okazaki, A., An Ensemble-Based Framework for Inverse Design of Precipitation Mitigation, 2027 AMS Annual Meeting, 10-14 Jan 2027, Denver, US.
 - AGU26 Annual Meeting
+  - Kurosawa, K. and Okazaki, A., Ensemble-Based Model Predictive Control Framework for Meteorological Applications, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
   - Okazaki, A. and Sato, Y., Development of stable water isotope-enabled large eddy resolving model SCALE, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
 - 日本気象学会2026年度秋季大会
   - 岡崎淳史, 佐藤陽祐, 領域気象モデルSCALE-RMへの水同位体導入, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.

@@ -9,6 +9,7 @@ The full CV is available [HERE](https://ats-okazaki.github.io/cv)
 - AGU26 Annual Meeting
   - Kurosawa, K. and Okazaki, A., Ensemble-Based Model Predictive Control Framework for Meteorological Applications, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
   - Okazaki, A. and Sato, Y., Development of stable water isotope-enabled large eddy resolving model SCALE, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
+  - Kino, K., Okazaki, A., Bong, H., Yoshimura, K., Southern Ocean Water Vapor Isotope Variability Associated with Synoptic-Scale Atmospheric Circulation: Challenges in Global Isotope-Enabled Climate Models, AGU26 Annual Meeting, 7-11 Dec 2026, SF, US.
 - 日本気象学会2026年度秋季大会
   - 岡崎淳史, 佐藤陽祐, 領域気象モデルSCALE-RMへの水同位体導入, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.
   - 黒澤賢太, 岡﨑淳史, データ同化を用いたモデル誤差ダイナミクスの逐次スパース同定, 日本気象学会2026年度秋季大会, 2026年10月26-30日, 京都.

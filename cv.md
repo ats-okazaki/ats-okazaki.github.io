@@ -25,6 +25,9 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
+1. Kawasaki, F., <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case, *submitted to SOLA*
+2. Cheng, J., Cauquoin, A., **Okazaki, A.**, Truax, O., Sinha, A., Li, H., Li, S., Xoplaki, E., Yoshimura, K., A global dataset of climate and hydroclimate reconstructions over the Common Era, *submitted to Scientific Data*
+4. Li, Y., **Okazaki, A.**, Nitta, T., Cauquoin, A., Spatially adaptive neighboring information improves constraints on local temperature projections, *submitted to npj Climate and Atmospheric Science** 
 1. <sup>†</sup>Ohtaki, H., Kurosawa, K., **Okazaki, A.**, Optimization of Control Sites in Weather Control based on Ensemble Sensitivity -A Case Study with Lorenz-96 Model-, *submitted to JJSCE*
 2. <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *submitted to JJSCE*
 3. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Yasunaga, K., Hamada, A., Kotsuki, S., Ensemble Predictions Enable Robust and Effective Intervention Design Under Forecast Uncertainty in Realistic Weather Scenarios, *submitted to npj Climate and Atmosphere*

@@ -33,9 +33,7 @@ History, *submitted to Journal of Japan Society of Hydrology and Water Resources
 3. <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kawasaki, F., Yasunaga, K., Hamada, A., Kotsuki, S., Ensemble Predictions Enable Robust and Effective Intervention Design Under Forecast Uncertainty in Realistic Weather Scenarios, *submitted to npj Climate and Atmospheric Science*
 4. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Kotsuki, S., Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model, *submitted to QJRMS* [arXiv](https://arxiv.org/abs/2511.12620)
 5. Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *submitted to ASL* [arXiv](https://arxiv.org/abs/2512.14444)
-1. Kawasaki, F., **Okazaki, A.**, Kurosawa, K., Tsuyuki, T., Kotsuki, S., Model Predictive Control with Foreseeing Horizon Designed for Mitigating Extreme Events of Chaotic Dynamical Systems. *submitted to NPG* [EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1785/)
 2. Hamamoto, S., Iizuka, Y., Aizawa, T., Kawakami, K., Matsumoto, M., Matoba, S., Bong, H., Yoshimura, K., **Okazaki, A.**, Uemura, R., Isotope-based Ice Core Age Scale Demonstrating Multi-Month Climate Variability Over the Past 150 Years in SE-Dome Greenland. *submitted to CP* [EGUsphere](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3602/)
-1. <sup>†</sup>McKinney, M., and Okazaki. A., Intercomparison of the paleoclimate reconstruction products with data assimilation over the last millennium. *in prep.*
    
 ### Published/In print
 1. <span style='color: deeppink; font-style: italic'>Accepted</span> <sup>†</sup>Ohtaki, H., Kurosawa, K., **Okazaki, A.**, Optimization of Control Sites in Weather Control based on Ensemble Sensitivity -A Case Study with Lorenz-96 Model-, *JJSCE*, 2027.
@@ -80,7 +78,6 @@ History, *submitted to Journal of Japan Society of Hydrology and Water Resources
 1. **Okazaki, A.**, Y. Satoh, G. Tremoy, F. Vimeux, R. Scheepmaker, and K. Yoshimura, Interannual variation of vapor isotope in West Africa and its relation to ENSO, *Atmos. Chem. Phys.*, 15, 3193-3204, 2015. [ACP](http://www.atmos-chem-phys.net/15/3193/2015/acp-15-3193-2015.html)
 1. Wei, Z., **A. Okazaki**, H. Maeda, Y. Satoh, M. Kiguchi, K. Noda, M. Koike, W. Kim, Z. Liu, and K. Yoshimura, Investigating vegetation-atmosphere water exchange by using high frequency spectroscopy vapor isotope observations, *Journal of Japan Society of Civil Engineers*, Ser. B1, 70, 181-186, 2014. [JJSCE](https://www.jstage.jst.go.jp/article/jscejhe/70/4/70_31/_article)
 1. **Okazaki, A.**, P. J.-F. Yeh, K. Yoshimura, M. Watanabe, M. Kimoto, and T. Oki, Changes in Flood Risk under Global Warming Estimated Using MIROC5 and the Discharge Probability Index, *J. Meteor Soc. Japan*, 90(4), 509-524, 2012. [JMSJ](https://www.jstage.jst.go.jp/article/jmsj/90/4/90_2012-405/_article)
-1. Ozawa, T., Fujibayashi, M., **Okazaki, A.**, Chiba, N., Nomura, M., Nakano, K., Nishimura, O., マルタニシ(Cipangopaludina cheinensis laeta)における触角異常の実態調査, Japanese Journal of Water Treatment Biology, 28 (69), 2008.
 
 ## Proceedings with review
 1. Z. Zhang, Y. Susuki, **A. Okazaki**, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, SICE Festival 2025 with Annual Conference, Thailand, September 2025.

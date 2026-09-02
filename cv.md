@@ -84,6 +84,9 @@ History, *submitted to Journal of Japan Society of Hydrology and Water Resources
 2. Z. Zhang, Y. Susuki, **A. Okazaki**, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, International Symposium on Nonlinear Theory and its Applications, Japan, October 2025.
 3. Higuchi, Y., Nagai, R., **Okazaki, A.**, Ogura, M., and Wakamiya, N., Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design, *ICCS2025*, LNCS 15903, 194-209, https://doi.org/10.1007/978-3-031-97626-1_14, 2025. [arXiv](https://arxiv.org/abs/2505.10843) [ICCS2025](https://link.springer.com/chapter/10.1007/978-3-031-97626-1_14)
 
+## Books
+1. 松本朋哉, 藤岡悠一郎, 渡部哲史, 荒野邦雄, 田尻義了, 鬼丸武史（編）「水共生学シリーズ２ ゆらぐ水環境を生きる：恵みの水, 災いの水」九州大学出版, ISBN:978-4-7985-0407-0, 2026.
+
 ## Presentations (selected only)
 1. Okazaki, A., Tanoue, M., Kino, K., Cauquoin, A., Yoshimura, K., Estimation of Parameters in an Isotope-Enabled GCM with Data Assimilation and Satellite-Based Observations, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <span style='color: deeppink; font-style: italic'>(Invited)</span>
 1. Okazaki, A., Ultra-High Spatiotemporal Resolution Reconstruction of the Climate around Japan with Large Ensemble of Climate Simulations and Old Documents, JpGU Meeting 2024, 26-31 May 2024, Chiba, Japan. <font color='deeppink'><i>(Invited)</i></font>

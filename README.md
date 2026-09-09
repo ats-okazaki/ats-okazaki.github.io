@@ -4,6 +4,9 @@ His research interests are in stable water isotope modeling and data assimilatio
 The full CV is available [HERE](https://ats-okazaki.github.io/cv)  
 
 # NEWS / Upcoming Talks
+- International Symposium on Isotope Hydrology
+  - Okazaki, A., Development of stable water isotope-enabled large eddy resolving model SCALE, International Symposium on Isotope Hydrology, 10-14 May 2027, Vienna, Austria.
+  - Cauquoin, A., Li, Y., Gusyev, M., Poluianov, S., Okazaki, A., Yoshimura, K., Improving water cycle representation in earth system models using tritium modeling in MIROC6-iso, International Symposium on Isotope Hydrology, 10-14 May 2027, Vienna, Austria.
 - AMS
   - Kurosawa, K. and Okazaki, A., An Ensemble-Based Framework for Inverse Design of Precipitation Mitigation, 2027 AMS Annual Meeting, 10-14 Jan 2027, Denver, US.
 - AGU26 Annual Meeting

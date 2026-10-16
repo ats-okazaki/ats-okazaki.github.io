@@ -105,7 +105,7 @@ History, *submitted to Journal of Japan Society of Hydrology and Water Resources
 Full list is available [HERE](https://ats-okazaki.github.io/presentation)  
 
 # Grants:
-- 2026-2027, JSPS Grant-in-Aid for Challenging Research (Exploratory), *Reconstruction of meteorological fields during the Edo period using Large Language Models*, [26K22503[(https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K22503/), PI. 
+- 2026-2027, JSPS Grant-in-Aid for Challenging Research (Exploratory), *Reconstruction of meteorological fields during the Edo period using Large Language Models*, [26K22503](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K22503/), PI. 
 - 2026-2033, JST FOREST, *Unveiling cloud microphysics using water isotopes as a Maxwell’s demon*, JPMJFR25xx(), PI.
 - 2026-2028, JSPS Grant-in-Aid for Transformative Research Area (B), *Exploring the Predictive Limits of Climate Tipping Points by Integrating Climate Model and Proxies*, [26K00011](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-26K00011/), PI.
 - 2025-2028, IAEA CRP (F31008), *Estimation of Isotope Ratios in Convective-scale Precipitations by Isotope-enabled Models and Isotopic Observations with Data Assimilation*, PI.

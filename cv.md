@@ -10,9 +10,9 @@ rank: 1
 - **Mar., 2009:** BSc in Engineering, Department of Civil Engineering and Architecture, School of Engineering, Tohoku University
 
 # Appointments:
-- **Oct., 2023-**: Associate Professor (Adjunct), Center for Environmental Remote Sensing, Chiba University
-- **Oct., 2023-**: Associate Professor (Tenure Track), Institute for Advanced Academic Research, Chiba University
+- **Oct., 2023-**: Associate Professor, Center for Environmental Remote Sensing, Chiba University
 - **Jun., 2016-**: Collaborative Researcher, Institute of Industrial Science, The University of Tokyo
+- **Oct., 2023-Sep., 2026**: Associate Professor, Institute for Advanced Academic Research, Chiba University
 - **Mar., 2021-Sep., 2023**: Assistant Professor (PI, Tenured), Hirosaki University
 - **Jun., 2019-Sep., 2023**: Visiting Researcher, RIKEN Center for Computational Science
 - **Jun., 2019-Feb., 2021**: Postdoctoral Scholar, Department of Meteorology and Atmospheric Science, Pennsylvania State University

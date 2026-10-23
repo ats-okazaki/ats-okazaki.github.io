@@ -25,8 +25,9 @@ rank: 1
 ## Publications with reviews
 "†" indicates my advisee's work 
 ### Submitted/In revision
-1. Kawasaki, F., <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case, *submitted to SOLA*
-2. Cheng, J., Cauquoin, A., **Okazaki, A.**, Truax, O., Sinha, A., Li, H., Li, S., Xoplaki, E., Yoshimura, K., A global dataset of climate and hydroclimate reconstructions over the Common Era, *submitted to Scientific Data*
+1. Birkel, C., Miller, J., Turk, H., Vystavna, Y., Soulsby, C., Warter, M. M., Tetzlaff, D., Durán-Quesada, A. M., Yoshimura, K., Bong, H., **Okazaki, A.**, Yang, Y., Pesántez, J., Sánchez‐Murillo, R., Watson, A., Diagnosing Spatial Climate Model Uncertainty using Water Isotope Tracers, *submitted to communications earth & environment*
+2. Kawasaki, F., <sup>†</sup>Kurosawa, K., **Okazaki, A.**, Kotsuki, S., Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case, *submitted to SOLA*
+3. Cheng, J., Cauquoin, A., **Okazaki, A.**, Truax, O., Sinha, A., Li, H., Li, S., Xoplaki, E., Yoshimura, K., A global dataset of climate and hydroclimate reconstructions over the Common Era, *submitted to Scientific Data*
 4. Li, Y., **Okazaki, A.**, Nitta, T., Cauquoin, A., Spatially adaptive neighboring information improves constraints on local temperature projections, *submitted to npj Climate and Atmospheric Science*
 5. <sup>†</sup>Suzumura, T., Oda, M., **Okazaki, A.**, Methodology for Research on Old Diaries as Climate Proxies: Bridging Hydrology and
 History, *submitted to Journal of Japan Society of Hydrology and Water Resources, Technical Note)*
@@ -37,7 +38,8 @@ History, *submitted to Journal of Japan Society of Hydrology and Water Resources
 ### Published/In print
 1. <span style='color: deeppink; font-style: italic'>Accepted</span> <sup>†</sup>Ohtaki, H., Kurosawa, K., **Okazaki, A.**, Optimization of Control Sites in Weather Control based on Ensemble Sensitivity -A Case Study with Lorenz-96 Model-, *JJSCE*, 2027.
 2. <span style='color: deeppink; font-style: italic'>Accepted</span> <sup>†</sup>Manabe, S., **Okazaki, A.**, A Historical Weather Reconstruction Method Using Subjective Qualitative Descriptions in Diaries, *JJSCE*, 2027.
-1. <span style='color: deeppink; font-style: italic'>Accepted</span> Takeda, Y., Watanabe, S., Utsumi, N., Itsumi, Y., **Okazaki, A.**, Exploring the Utility of a Large-Ensemble Climate Projection Database for Projecting Meteorological Drought Risk in Small Island Regions, *J. Japan Soc. Hydrol. and Water Resour.*, Vol. 39, No.4, pp. 1-10, 2026. (in Japanese)
+1. <span style='color: deeppink; font-style: italic'>Accepted</span> Li, Y., **Okazaki, A.**, Cauquoin, A., Nitta, T., Spatially adaptive neighboring information improves constraints on local temperature projections, *npj Climate and Atmospheric Science*, 2026.
+2. <span style='color: deeppink; font-style: italic'>Accepted</span> Takeda, Y., Watanabe, S., Utsumi, N., Itsumi, Y., **Okazaki, A.**, Exploring the Utility of a Large-Ensemble Climate Projection Database for Projecting Meteorological Drought Risk in Small Island Regions, *J. Japan Soc. Hydrol. and Water Resour.*, Vol. 39, No.4, pp. 1-10, 2026. (in Japanese)
 1. <span style='color: deeppink; font-style: italic'>Accepted</span> Takeshima, A., Shiraishi, K., **Okazaki, A.**, Tsuyuki, T., Kotsuki, S., Bridging Artificial Intelligence and Data Assimilation: The First Data-driven Ensemble Forecasting System ClimaX-LETKF, *Atmospheric Science Letters*, 2026. [arXiv](https://arxiv.org/abs/2512.14444)
 1. Shiraishi, K., Muto, Y., **Okazaki, A.**, Kotsuki, S., Wasserstein GAN-based precipitation downscaling with optimal transport for enhancing perceptual realism, Prog Earth Planet Sci 13, 29, 2026. [arXiv](https://arxiv.org/abs/2507.17798) [PEPS](https://link.springer.com/article/10.1186/s40645-026-00815-w)
 2. Zhang, Z., Susuki, Y., and **Okazaki, A.**, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition, NOLTA, IEICE, 17, 3, 1333-1361, 2026. [IEICE](https://www.jstage.jst.go.jp/article/nolta/17/3/17_1333/_article)
